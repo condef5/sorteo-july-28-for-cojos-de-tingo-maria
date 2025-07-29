@@ -1,8 +1,8 @@
 {
   "metadata": {
     "totalEvents": 77,
-    "totalPlayers": 211,
-    "generatedAt": "2025-07-29T13:58:02.492Z",
+    "totalPlayers": 210,
+    "generatedAt": "2025-07-29T14:13:40.889Z",
     "description": "Ranking de jugadores por asistencias a pichangas"
   },
   "rankings": [
@@ -436,6 +436,17 @@
       ]
     },
     {
+      "name": "Milo",
+      "cleanName": "Milo",
+      "attendance": 8,
+      "events": [],
+      "variations": [
+        "⁠ ⁠⁠- Milo",
+        "Milo",
+        "El Milo ps"
+      ]
+    },
+    {
       "name": "José Muñoz",
       "cleanName": "José Muñoz",
       "attendance": 8,
@@ -444,16 +455,6 @@
         "⁠José Muñoz",
         "⁠- José Muñoz",
         "José Muñoz"
-      ]
-    },
-    {
-      "name": "Milo",
-      "cleanName": "Milo",
-      "attendance": 7,
-      "events": [],
-      "variations": [
-        "⁠ ⁠⁠- Milo",
-        "Milo"
       ]
     },
     {
@@ -1986,15 +1987,6 @@
       "events": [],
       "variations": [
         "Hilario level 2"
-      ]
-    },
-    {
-      "name": "El Milo Ps",
-      "cleanName": "El Milo Ps",
-      "attendance": 1,
-      "events": [],
-      "variations": [
-        "El Milo ps"
       ]
     },
     {

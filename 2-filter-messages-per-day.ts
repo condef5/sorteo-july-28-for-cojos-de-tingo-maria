@@ -349,8 +349,8 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length === 0) {
-    console.log('❌ Uso: bun run filter.ts <archivo-mensajes.json>');
-    console.log('📝 Ejemplo: bun run filter.ts mensajes.json');
+    console.log('❌ Uso: bun run 2-filter-messages-per-day.ts <archivo-mensajes.json>');
+    console.log('📝 Ejemplo: bun run 2-filter-messages-per-day.ts output/first/messages.json');
     process.exit(1);
   }
 

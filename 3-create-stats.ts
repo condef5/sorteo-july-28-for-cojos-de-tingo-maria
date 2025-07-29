@@ -50,6 +50,7 @@ class PlayerStatsAnalyzer {
     Sebas: 'Sebas',
     Sebastian: 'Sebas',
     Gaspar: 'L Phant',
+    'El Milo Ps': 'Milo',
   };
 
   private cleanPlayerName(playerName: string): string {
@@ -343,8 +344,8 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length === 0) {
-    console.log('❌ Uso: bun run stats.ts <eventos-filtrados.json> [top-N]');
-    console.log('📝 Ejemplo: bun run stats.ts eventos-filtrados.json 30');
+    console.log('❌ Uso: bun run 3-create-stats.ts <eventos-filtrados.json> [top-N]');
+    console.log('📝 Ejemplo: bun run 3-create-stats.ts output/second/filter-events.json 20');
     process.exit(1);
   }
 

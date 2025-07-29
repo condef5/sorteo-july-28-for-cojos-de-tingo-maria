@@ -185,8 +185,8 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length === 0) {
-    console.log('❌ Uso: bun run parser.ts <ruta-del-archivo-chat.txt>');
-    console.log('📝 Ejemplo: bun run parser.ts ./chat.txt');
+    console.log('❌ Uso: bun run 1-parse-messages.ts <ruta-del-archivo-chat.txt>');
+    console.log('📝 Ejemplo: bun run 1-parse-messages.ts ./data/wp_chat_from_2025.txt');
     process.exit(1);
   }
 

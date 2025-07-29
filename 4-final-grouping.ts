@@ -1,11 +1,38 @@
 #!/usr/bin/env bun
 
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync } from 'fs';
 import { createObjectCsvWriter } from 'csv-writer';
-import stringSimilarity from 'string-similarity';
+import * as stringSimilarity from 'string-similarity';
+
+// Tipos TypeScript
+interface Player {
+  name: string;
+  cleanName: string;
+  attendance: number;
+  events: string[];
+  variations: string[];
+}
+
+interface JsonData {
+  metadata: {
+    totalEvents: number;
+    totalPlayers: number;
+    generatedAt: string;
+    description: string;
+  };
+  rankings: Player[];
+}
+
+interface ConsolidatedPlayer {
+  name: string;
+  totalAttendance: number;
+  variations: string;
+}
 
 // Configuración
-const SIMILARITY_LEVEL = 2; // 1 = muy estricto, 2 = moderado, 3 = flexible
+const SIMILARITY_LEVEL: 1 | 2 | 3 = 2; // 1 = muy estricto, 2 = moderado, 3 = flexible
+const MIN_ATTENDANCE = 2; // Solo guardar jugadores con 2 o más asistencias
+
 const INPUT_FILE = 'output/third/player-ranking.json';
 const OUTPUT_FILE = 'output/final/final_players.csv';
 
@@ -19,7 +46,7 @@ const SIMILARITY_THRESHOLDS = {
 /**
  * Limpia un nombre removiendo caracteres especiales, emojis y espacios extras
  */
-function cleanName(name) {
+function cleanName(name: string): string {
   return name
     .normalize('NFD') // descompone caracteres acentuados
     .replace(/[\u0300-\u036f]/g, '') // remueve diacríticos
@@ -30,26 +57,19 @@ function cleanName(name) {
 }
 
 /**
- * Encuentra el nombre más frecuente en un array de variaciones
+ * Obtiene el primer nombre que aparece en el grupo (del JSON original)
  */
-function getMostFrequentName(variations) {
-  const frequency = {};
-  variations.forEach((name) => {
-    frequency[name] = (frequency[name] || 0) + 1;
-  });
-
-  return Object.keys(frequency).reduce((a, b) =>
-    frequency[a] > frequency[b] ? a : b
-  );
+function getOriginalName(group: Player[]): string {
+  return group[0].name; // Usar el nombre del primer jugador del grupo
 }
 
 /**
  * Agrupa jugadores por similitud de nombres
  */
-function groupSimilarPlayers(players) {
+function groupSimilarPlayers(players: Player[]): Player[][] {
   const threshold = SIMILARITY_THRESHOLDS[SIMILARITY_LEVEL];
-  const groups = [];
-  const processed = new Set();
+  const groups: Player[][] = [];
+  const processed = new Set<number>();
 
   players.forEach((player, index) => {
     if (processed.has(index)) return;
@@ -83,20 +103,25 @@ function groupSimilarPlayers(players) {
 /**
  * Consolida un grupo de jugadores similares
  */
-function consolidateGroup(group) {
-  const allVariations = [];
+function consolidateGroup(group: Player[]): ConsolidatedPlayer {
+  const allVariations: string[] = [];
+  const allEvents: string[] = [];
   let totalAttendance = 0;
 
   group.forEach((player) => {
     totalAttendance += player.attendance;
+    allEvents.push(...(player.events || []));
     allVariations.push(...(player.variations || [player.name]));
   });
+
+  // Remover duplicados de eventos
+  const uniqueEvents = [...new Set(allEvents)];
 
   // Remover duplicados de variaciones
   const uniqueVariations = [...new Set(allVariations)];
 
-  // Encontrar el nombre más frecuente
-  const finalName = getMostFrequentName(uniqueVariations);
+  // Usar el nombre original del primer jugador
+  const finalName = getOriginalName(group);
 
   return {
     name: finalName,
@@ -108,15 +133,16 @@ function consolidateGroup(group) {
 /**
  * Procesa el archivo JSON y genera el CSV consolidado
  */
-async function processPlayersData() {
+async function processPlayersData(): Promise<void> {
   try {
     console.log(
       `📊 Iniciando consolidación con nivel de similitud ${SIMILARITY_LEVEL} (umbral: ${SIMILARITY_THRESHOLDS[SIMILARITY_LEVEL]})`
     );
+    console.log(`🎯 Filtro: Solo jugadores con ${MIN_ATTENDANCE}+ asistencias`);
 
     // Leer archivo JSON
     console.log(`📂 Leyendo archivo: ${INPUT_FILE}`);
-    const jsonData = JSON.parse(readFileSync(INPUT_FILE, 'utf-8'));
+    const jsonData: JsonData = JSON.parse(readFileSync(INPUT_FILE, 'utf-8'));
 
     if (!jsonData.rankings || jsonData.rankings.length === 0) {
       console.log('❌ No se encontraron datos de rankings en el archivo');
@@ -133,14 +159,22 @@ async function processPlayersData() {
     console.log('🔄 Consolidando grupos...');
     const consolidatedPlayers = groups.map(consolidateGroup);
 
+    // Filtrar solo jugadores con 2 o más asistencias
+    const filteredPlayers = consolidatedPlayers.filter(
+      (player) => player.totalAttendance >= MIN_ATTENDANCE
+    );
+
     // Ordenar por asistencias (descendente)
-    consolidatedPlayers.sort((a, b) => b.totalAttendance - a.totalAttendance);
+    filteredPlayers.sort((a, b) => b.totalAttendance - a.totalAttendance);
 
     console.log(`✅ Jugadores consolidados: ${consolidatedPlayers.length}`);
     console.log(
-      `📈 Reducción: ${
-        jsonData.rankings.length - consolidatedPlayers.length
-      } duplicados eliminados`
+      `🎯 Jugadores con ${MIN_ATTENDANCE}+ asistencias: ${filteredPlayers.length}`
+    );
+    console.log(
+      `📈 Reducción total: ${
+        jsonData.rankings.length - filteredPlayers.length
+      } jugadores eliminados`
     );
 
     // Crear CSV
@@ -154,22 +188,23 @@ async function processPlayersData() {
       ],
     });
 
-    await csvWriter.writeRecords(consolidatedPlayers);
+    await csvWriter.writeRecords(filteredPlayers);
 
     console.log('🎉 ¡Proceso completado exitosamente!');
     console.log(`📄 Archivo generado: ${OUTPUT_FILE}`);
 
     // Mostrar preview de los top 5
     console.log('\n📋 Top 5 jugadores:');
-    consolidatedPlayers.slice(0, 5).forEach((player, index) => {
+    filteredPlayers.slice(0, 5).forEach((player, index) => {
       console.log(
         `${index + 1}. ${player.name} - ${player.totalAttendance} asistencias`
       );
     });
   } catch (error) {
-    console.error('❌ Error procesando datos:', error.message);
+    console.error('❌ Error procesando datos:', (error as Error).message);
     process.exit(1);
   }
 }
 
+// Ejecutar el script
 processPlayersData();

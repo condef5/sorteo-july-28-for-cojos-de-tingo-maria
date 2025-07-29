@@ -10,29 +10,20 @@ curl -fsSL https://bun.sh/install | bash
 ## Requisitos Previos
 
 1. **Node.js**: Asegúrate de tener Node.js instalado. Puedes descargarlo desde [nodejs.org](https://nodejs.org/).
-2. **Instalar dependencias**: Si el proyecto tiene un archivo `package.json`, ejecuta:
+2. **Instalar dependencias**: Ejecuta lo siguiente para instalar todas las dependencias definidas en `package.json`:
    ```bash
    bun install
    ```
 
 ## Ejecución de los Scripts
 
-Los scripts deben ejecutarse en el siguiente orden, ya que cada uno depende de la salida del anterior:
+Para ejecutar todo el flujo de procesamiento, simplemente usa el script automatizado:
 
-1. `bun run 1-parse-messages.ts data/wp_chat_from_2025.txt`
-2. `bun run 2-filter-messages-per-day.ts ./output/first/messages.json`
-3. `bun run 3-create-stats.ts output/second/filter-events.json`
-4. `bun run 4-csv-converter.ts output/third/player-ranking.json`
-
-> **Nota:** Cambia los nombres de los archivos de entrada si tus datos tienen otro nombre o ubicación.
-
-### Ejemplo de ejecución paso a paso:
 ```bash
-bun run 1-parse-messages.ts data/wp_chat_from_2025.txt
-bun run 2-filter-messages-per-day.ts ./output/first/messages.json
-bun run 3-create-stats.ts output/second/filter-events.json
-bun run 4-csv-converter.ts output/third/player-ranking.json
+./run_all.sh
 ```
+
+Esto ejecutará todos los scripts en orden, asegurando que cada uno reciba la salida correcta del anterior. Si necesitas cambiar los archivos de entrada, edita el archivo `run_all.sh`.
 
 > **Nota:** Si tus scripts requieren argumentos adicionales, revisa el código fuente o la documentación interna de cada archivo para más detalles.
 
