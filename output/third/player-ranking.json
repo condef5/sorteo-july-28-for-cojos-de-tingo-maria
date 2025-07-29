@@ -1,8 +1,8 @@
 {
   "metadata": {
     "totalEvents": 77,
-    "totalPlayers": 314,
-    "generatedAt": "2025-07-29T12:55:37.030Z",
+    "totalPlayers": 313,
+    "generatedAt": "2025-07-29T13:10:12.626Z",
     "description": "Ranking de jugadores por asistencias a pichangas"
   },
   "rankings": [
@@ -170,6 +170,52 @@
       ]
     },
     {
+      "name": "L Phant",
+      "cleanName": "L Phant",
+      "attendance": 34,
+      "events": [
+        "12/02/25 (viernes)",
+        "14/02/25 (viernes)",
+        "20/02/25 (viernes)",
+        "21/02/25 (viernes)",
+        "28/02/25 (viernes)",
+        "6/03/25 (viernes)",
+        "7/03/25 (viernes)",
+        "13/03/25 (viernes)",
+        "14/03/25 (viernes)",
+        "20/03/25 (viernes)",
+        "21/03/25 (viernes)",
+        "27/03/25 (viernes)",
+        "28/03/25 (viernes)",
+        "1/04/25 (miércoles)",
+        "2/04/25 (miércoles)",
+        "3/04/25 (viernes)",
+        "4/04/25 (viernes)",
+        "10/04/25 (viernes)",
+        "15/04/25 (miércoles)",
+        "16/04/25 (miércoles)",
+        "17/04/25 (viernes)",
+        "18/04/25 (viernes)",
+        "8/05/25 (viernes)",
+        "9/05/25 (viernes)",
+        "15/05/25 (viernes)",
+        "16/05/25 (viernes)",
+        "22/05/25 (viernes)",
+        "23/05/25 (viernes)",
+        "29/05/25 (viernes)",
+        "30/05/25 (viernes)",
+        "12/06/25 (viernes)",
+        "13/06/25 (viernes)",
+        "19/06/25 (viernes)",
+        "20/06/25 (viernes)"
+      ],
+      "variations": [
+        "L Phant",
+        "L Phant 🇵🇪",
+        "L phant"
+      ]
+    },
+    {
       "name": "Dayler",
       "cleanName": "Dayler",
       "attendance": 34,
@@ -260,47 +306,6 @@
         "mikhail go",
         "Mikhail (llegó con Bruce)",
         "mikhail (3)"
-      ]
-    },
-    {
-      "name": "L Phant",
-      "cleanName": "L Phant",
-      "attendance": 30,
-      "events": [
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "6/03/25 (viernes)",
-        "7/03/25 (viernes)",
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "L Phant",
-        "L phant"
       ]
     },
     {
@@ -1023,8 +1028,8 @@
       ]
     },
     {
-      "name": "Frank \uddfb\uddea",
-      "cleanName": "Frank \uddfb\uddea",
+      "name": "Frank \uddfb",
+      "cleanName": "Frank \uddfb",
       "attendance": 8,
       "events": [
         "1/04/25 (miércoles)",
@@ -1434,20 +1439,6 @@
         "Jhon",
         "jhon (arquero)",
         "jhon"
-      ]
-    },
-    {
-      "name": "L Phant \uddf5\uddea",
-      "cleanName": "L Phant \uddf5\uddea",
-      "attendance": 4,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "1/04/25 (miércoles)",
-        "2/04/25 (miércoles)"
-      ],
-      "variations": [
-        "L Phant 🇵🇪"
       ]
     },
     {
@@ -2296,8 +2287,8 @@
       ]
     },
     {
-      "name": "⁠- Ronaldo El Bicho \uddf5\uddf9",
-      "cleanName": "⁠- Ronaldo El Bicho \uddf5\uddf9",
+      "name": "⁠- Ronaldo El Bicho \uddf9",
+      "cleanName": "⁠- Ronaldo El Bicho \uddf9",
       "attendance": 2,
       "events": [
         "27/03/25 (viernes)",
@@ -2320,8 +2311,8 @@
       ]
     },
     {
-      "name": "⁠- Bruce Chero Del 12 \uddf5\uddea",
-      "cleanName": "⁠- Bruce Chero Del 12 \uddf5\uddea",
+      "name": "⁠- Bruce Chero Del 12",
+      "cleanName": "⁠- Bruce Chero Del 12",
       "attendance": 2,
       "events": [
         "27/03/25 (viernes)",
@@ -2369,8 +2360,8 @@
       ]
     },
     {
-      "name": "Ronaldo El Bicho \uddf5\uddf9",
-      "cleanName": "Ronaldo El Bicho \uddf5\uddf9",
+      "name": "Ronaldo El Bicho \uddf9",
+      "cleanName": "Ronaldo El Bicho \uddf9",
       "attendance": 2,
       "events": [
         "2/04/25 (miércoles)",
@@ -2479,8 +2470,8 @@
       ]
     },
     {
-      "name": "Bruce Go \udf7a",
-      "cleanName": "Bruce Go \udf7a",
+      "name": "Bruce Go",
+      "cleanName": "Bruce Go",
       "attendance": 2,
       "events": [
         "17/04/25 (viernes)",
@@ -2491,8 +2482,8 @@
       ]
     },
     {
-      "name": "Mikhail Go\udf7a",
-      "cleanName": "Mikhail Go\udf7a",
+      "name": "Mikhail Go",
+      "cleanName": "Mikhail Go",
       "attendance": 2,
       "events": [
         "17/04/25 (viernes)",
@@ -2503,8 +2494,8 @@
       ]
     },
     {
-      "name": "Sebas Go\udf7a",
-      "cleanName": "Sebas Go\udf7a",
+      "name": "Sebas Go",
+      "cleanName": "Sebas Go",
       "attendance": 2,
       "events": [
         "17/04/25 (viernes)",
@@ -2515,8 +2506,8 @@
       ]
     },
     {
-      "name": "Math Go\udf7a",
-      "cleanName": "Math Go\udf7a",
+      "name": "Math Go",
+      "cleanName": "Math Go",
       "attendance": 2,
       "events": [
         "17/04/25 (viernes)",
@@ -3556,8 +3547,8 @@
       ]
     },
     {
-      "name": "⁠ ⁠⁠-frank \uddfb\uddea",
-      "cleanName": "⁠ ⁠⁠-frank \uddfb\uddea",
+      "name": "⁠ ⁠⁠-frank \uddfb",
+      "cleanName": "⁠ ⁠⁠-frank \uddfb",
       "attendance": 1,
       "events": [
         "9/04/25 (miércoles)"
@@ -3644,8 +3635,8 @@
       ]
     },
     {
-      "name": "⁠-frank\uddfb\uddea",
-      "cleanName": "⁠-frank\uddfb\uddea",
+      "name": "⁠-frank\uddfb",
+      "cleanName": "⁠-frank\uddfb",
       "attendance": 1,
       "events": [
         "10/04/25 (viernes)"
@@ -3655,8 +3646,8 @@
       ]
     },
     {
-      "name": "⁠-ronaldo El Bicho \uddf5\uddf9",
-      "cleanName": "⁠-ronaldo El Bicho \uddf5\uddf9",
+      "name": "⁠-ronaldo El Bicho \uddf9",
+      "cleanName": "⁠-ronaldo El Bicho \uddf9",
       "attendance": 1,
       "events": [
         "10/04/25 (viernes)"
@@ -3776,8 +3767,8 @@
       ]
     },
     {
-      "name": "Lucho Go\udf7a",
-      "cleanName": "Lucho Go\udf7a",
+      "name": "Lucho Go",
+      "cleanName": "Lucho Go",
       "attendance": 1,
       "events": [
         "17/04/25 (viernes)"

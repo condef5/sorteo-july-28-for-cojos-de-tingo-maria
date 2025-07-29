@@ -60,7 +60,7 @@ class PlayerStatsAnalyzer {
       .replace(/[‎<>]/g, '') // Remover caracteres especiales invisibles
       .replace(/\s*go\s*$/i, '') // Remover "go" al final
       .replace(/\s*-\s*$/, '') // Remover guiones al final
-      .replace(/[🔥⭐✨💪👑🏆⚽]/g, '') // Remover emojis comunes
+      .replace(/[🔥⭐✨💪👑🏆⚽🍺🇵🇪]/g, '') // Remover emojis comunes
       .replace(/\s+/g, ' ') // Normalizar espacios múltiples a uno solo
       .trim(); // Remover espacios al inicio y final
 

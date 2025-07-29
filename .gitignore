@@ -1,0 +1,24 @@
+# Node/Bun dependencies
+node_modules/
+.bun/
+
+# Output and build files
+output/
+build/
+dist/
+*.log
+*.tsbuildinfo
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# CSV y archivos generados
+*.csv
+ranking-detallado.json
+
+# Archivos temporales y de entorno
+.env
+.env.*
