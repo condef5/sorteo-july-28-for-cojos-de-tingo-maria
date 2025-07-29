@@ -1,0 +1,20 @@
+Metrica,Valor
+Total_Eventos,77
+Total_Jugadores,314
+Fecha_Generacion,2025-07-29T12:55:37.030Z
+,
+=== ESTADISTICAS CALCULADAS ===,
+Jugador_Mas_Activo,Spectre
+Max_Asistencias,52
+Jugador_Menos_Activo,El Delincuente
+Min_Asistencias,1
+Promedio_Asistencias,3.89
+Mediana_Asistencias,2
+Total_Asistencias_Registradas,1223
+,
+=== DISTRIBUCION POR RANGOS ===,
+Jugadores_20_Plus,16
+Jugadores_15_19,2
+Jugadores_10_14,8
+Jugadores_5_9,26
+Jugadores_1_4,262
