@@ -1,5 +1,7 @@
 # Instrucciones para Ejecutar los Scripts
 
+![Resultado final](img/image.png)
+
 Este proyecto contiene varios scripts en TypeScript para procesar datos. **Todos los scripts son dependientes entre sí y deben ejecutarse en el orden indicado** para obtener resultados correctos.
 
 Además, este proyecto utiliza [Bun](https://bun.sh/) como entorno de ejecución. Si no tienes Bun instalado, puedes hacerlo siguiendo las instrucciones oficiales:
