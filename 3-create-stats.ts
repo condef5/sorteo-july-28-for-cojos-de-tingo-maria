@@ -20,7 +20,7 @@ interface ProcessedData {
   events: FilteredEvent[];
 }
 
-interface PlayerStats {
+export interface PlayerStats {
   name: string;
   cleanName: string;
   attendance: number;
@@ -49,20 +49,31 @@ class PlayerStatsAnalyzer {
     Kenyi: 'Sebas',
     Sebas: 'Sebas',
     Sebastian: 'Sebas',
+    Gaspar: 'L Phant',
   };
 
   private cleanPlayerName(playerName: string): string {
-    // Limpieza exhaustiva de espacios y caracteres especiales
+    // Limpieza exhaustiva de espacios, guiones y caracteres especiales
     let cleaned = playerName
-      .replace(/\([^)]*\)/g, '') // Remover (contenido)
-      .replace(/\[[^\]]*\]/g, '') // Remover [contenido]
-      .replace(/\{[^}]*\}/g, '') // Remover {contenido}
-      .replace(/[‎<>]/g, '') // Remover caracteres especiales invisibles
-      .replace(/\s*go\s*$/i, '') // Remover "go" al final
-      .replace(/\s*-\s*$/, '') // Remover guiones al final
-      .replace(/[🔥⭐✨💪👑🏆⚽🍺🇵🇪]/g, '') // Remover emojis comunes
-      .replace(/\s+/g, ' ') // Normalizar espacios múltiples a uno solo
-      .trim(); // Remover espacios al inicio y final
+      // Remover emojis comunes
+      .replace(/[🔥⭐✨💪👑🏆⚽🍺🇵🇪]/g, '')
+      // Remover contenido entre paréntesis, corchetes y llaves
+      .replace(/[\(\[\{][^\)\]\}]*[\)\]\}]/g, '')
+      // Remover guiones, espacios y caracteres invisibles/control
+      .replace(
+        /[-\s\u001F\u007F-\u009F\u200B-\u200D\uFEFF\u2060\u00AD\u061C\u180E\u2000-\u200A]+/g,
+        ' '
+      )
+      // Remover "go" o "goes" al final (insensible a mayúsculas)
+      .replace(/\s*(go|goes)\s*$/i, '')
+      // Remover "chero" y todo lo que sigue
+      .replace(/\s*chero.*$/i, '')
+      // Normalizar puntos y espacios
+      .replace(/\s*\.\s*/g, ' ')
+      // Normalizar espacios múltiples a uno solo
+      .replace(/\s+/g, ' ')
+      // Remover espacios al inicio y final
+      .trim();
 
     // Si queda vacío después de la limpieza, retornar string vacío
     if (!cleaned) {
@@ -129,9 +140,9 @@ class PlayerStatsAnalyzer {
         playerStats.attendance++;
 
         // Agregar evento si no existe ya
-        if (!playerStats.events.includes(eventKey)) {
-          playerStats.events.push(eventKey);
-        }
+        // if (!playerStats.events.includes(eventKey)) {
+        //   playerStats.events.push(eventKey);
+        // }
 
         // Agregar variación del nombre si no existe ya
         if (!playerStats.variations.includes(playerName.trim())) {

@@ -1,260 +1,157 @@
 {
   "metadata": {
     "totalEvents": 77,
-    "totalPlayers": 313,
-    "generatedAt": "2025-07-29T13:10:12.626Z",
+    "totalPlayers": 211,
+    "generatedAt": "2025-07-29T13:58:02.492Z",
     "description": "Ranking de jugadores por asistencias a pichangas"
   },
   "rankings": [
     {
       "name": "Spectre",
       "cleanName": "Spectre",
-      "attendance": 52,
-      "events": [
-        "12/02/25 (viernes)",
-        "6/03/25 (viernes)",
-        "7/03/25 (viernes)",
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "8/04/25 (miércoles)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "22/04/25 (miércoles)",
-        "23/04/25 (miércoles)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "24/06/25 (miércoles)",
-        "25/06/25 (miércoles)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "1/07/25 (miércoles)",
-        "2/07/25 (miércoles)",
-        "2/07/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "8/07/25 (miércoles)",
-        "9/07/25 (miércoles)",
-        "9/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "15/07/25 (miércoles)",
-        "16/07/25 (miércoles)",
-        "16/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "attendance": 53,
+      "events": [],
       "variations": [
         "Spectre",
-        "Conde"
+        "Conde",
+        "⁠ ⁠Conde"
       ]
     },
     {
-      "name": "Alex",
-      "cleanName": "Alex",
-      "attendance": 42,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "9/01/25 (viernes)",
-        "10/01/25 (viernes)",
-        "16/01/25 (viernes)",
-        "17/01/25 (viernes)",
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "27/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "6/03/25 (viernes)",
-        "7/03/25 (viernes)",
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "1/04/25 (miércoles)",
-        "2/04/25 (miércoles)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "8/04/25 (miércoles)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "6/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "24/06/25 (miércoles)"
-      ],
+      "name": "Bruce",
+      "cleanName": "Bruce",
+      "attendance": 51,
+      "events": [],
       "variations": [
-        "Alex",
-        "alex"
-      ]
-    },
-    {
-      "name": "Deiby",
-      "cleanName": "Deiby",
-      "attendance": 35,
-      "events": [
-        "17/01/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "9/04/25 (miércoles)",
-        "11/04/25 (viernes)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "2/07/25 (miércoles)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "16/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Deiby(9y20 llego si no hay otro xd)",
-        "Deiby",
-        "Deiby(9y20 max. llego)",
-        "Deiby(9y20max llego)"
+        "Bruce go",
+        "⁠- Bruce go",
+        "Bruce goes",
+        "⁠- Bruce chero del 12 🇵🇪",
+        "⁠Bruce goes",
+        "⁠- Bruce goes",
+        "⁠- Bruce chero del 11",
+        "Bruce go 🍺",
+        "⁠bruce go",
+        "Bruce",
+        "bruce",
+        "bruce go",
+        "⁠Bruce",
+        "⁠Bruce go",
+        "⁠- bruce go",
+        "⁠- bruce go (llego 9:10)"
       ]
     },
     {
       "name": "L Phant",
       "cleanName": "L Phant",
-      "attendance": 34,
-      "events": [
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "6/03/25 (viernes)",
-        "7/03/25 (viernes)",
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "1/04/25 (miércoles)",
-        "2/04/25 (miércoles)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
+      "attendance": 49,
+      "events": [],
       "variations": [
+        "⁠- l phant",
+        "Gaspar",
         "L Phant",
         "L Phant 🇵🇪",
         "L phant"
       ]
     },
     {
+      "name": "Alex",
+      "cleanName": "Alex",
+      "attendance": 45,
+      "events": [],
+      "variations": [
+        "Alex",
+        "⁠ Alex",
+        "⁠Alex",
+        ".Alex",
+        "alex"
+      ]
+    },
+    {
+      "name": "Deiby",
+      "cleanName": "Deiby",
+      "attendance": 45,
+      "events": [],
+      "variations": [
+        "⁠- Deiby",
+        "Deiby(9y20 llego si no hay otro xd)",
+        "Deiby",
+        "⁠Deiby",
+        "⁠-Deiby",
+        "Deiby(9y20 max. llego)",
+        "Deiby(9y20max llego)"
+      ]
+    },
+    {
+      "name": "Mikhail",
+      "cleanName": "Mikhail",
+      "attendance": 41,
+      "events": [],
+      "variations": [
+        "Mikhail",
+        "mikhail",
+        "⁠-mikhail",
+        "⁠mikhail",
+        "Mikhail go🍺",
+        "⁠- mikhail",
+        "mikhail go",
+        "Mikhail (llegó con Bruce)",
+        "mikhail (3)"
+      ]
+    },
+    {
+      "name": "Terry",
+      "cleanName": "Terry",
+      "attendance": 37,
+      "events": [],
+      "variations": [
+        "⁠-Terry",
+        "Terry",
+        "TerryCherodeBruce",
+        "⁠Terry",
+        "TerryCherodel13"
+      ]
+    },
+    {
+      "name": "Math",
+      "cleanName": "Math",
+      "attendance": 35,
+      "events": [],
+      "variations": [
+        "math",
+        "Math",
+        "⁠-math",
+        "Math go🍺",
+        "⁠-Math",
+        "⁠math go",
+        "math go"
+      ]
+    },
+    {
+      "name": "Lucho",
+      "cleanName": "Lucho",
+      "attendance": 34,
+      "events": [],
+      "variations": [
+        "Lucho go",
+        "Lucho",
+        "lucho",
+        "Lucho goes",
+        "Lucho ( por si acaso)",
+        "⁠Lucho go",
+        "⁠- Lucho go",
+        "Lucho(Peña friend)",
+        "Lucho go🍺",
+        "lucho go",
+        "⁠-Lucho go",
+        "⁠lucho go"
+      ]
+    },
+    {
       "name": "Dayler",
       "cleanName": "Dayler",
       "attendance": 34,
-      "events": [
-        "14/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "9/04/25 (miércoles)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "26/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "16/07/25 (miércoles)",
-        "16/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Dayler(3)",
         "Dayler",
@@ -262,442 +159,79 @@
       ]
     },
     {
-      "name": "Mikhail",
-      "cleanName": "Mikhail",
-      "attendance": 33,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "17/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "7/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "16/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "6/06/25 (viernes)",
-        "1/07/25 (miércoles)",
-        "2/07/25 (miércoles)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Mikhail",
-        "mikhail",
-        "mikhail go",
-        "Mikhail (llegó con Bruce)",
-        "mikhail (3)"
-      ]
-    },
-    {
-      "name": "Bruce",
-      "cleanName": "Bruce",
-      "attendance": 29,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "17/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "1/07/25 (miércoles)",
-        "2/07/25 (miércoles)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "16/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Bruce go",
-        "Bruce",
-        "bruce",
-        "bruce go"
-      ]
-    },
-    {
-      "name": "Math",
-      "cleanName": "Math",
-      "attendance": 28,
-      "events": [
-        "24/01/25 (viernes)",
-        "7/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "27/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "7/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "math",
-        "Math",
-        "math go"
-      ]
-    },
-    {
       "name": "Mario",
       "cleanName": "Mario",
-      "attendance": 28,
-      "events": [
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "7/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "10/04/25 (viernes)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "6/06/25 (viernes)",
-        "1/07/25 (miércoles)",
-        "2/07/25 (miércoles)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
+      "attendance": 32,
+      "events": [],
       "variations": [
+        "⁠Mario🔥",
         "mario",
         "Mario",
-        "Mario🔥"
-      ]
-    },
-    {
-      "name": "Terry",
-      "cleanName": "Terry",
-      "attendance": 27,
-      "events": [
-        "10/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "7/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "9/04/25 (miércoles)",
-        "11/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "16/07/25 (miércoles)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "23/07/25 (miércoles)"
-      ],
-      "variations": [
-        "Terry"
-      ]
-    },
-    {
-      "name": "Lucho",
-      "cleanName": "Lucho",
-      "attendance": 27,
-      "events": [
-        "16/01/25 (viernes)",
-        "17/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "27/02/25 (viernes)",
-        "7/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "11/04/25 (viernes)",
-        "16/04/25 (miércoles)",
-        "18/04/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "16/07/25 (miércoles)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Lucho go",
-        "Lucho",
-        "lucho",
-        "Lucho ( por si acaso)",
-        "Lucho(Peña friend)",
-        "lucho go"
-      ]
-    },
-    {
-      "name": "Jheampol",
-      "cleanName": "Jheampol",
-      "attendance": 27,
-      "events": [
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "16/07/25 (miércoles)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "jheampol",
-        "Jheampol",
-        "jheampol (hoy si voy xd)"
-      ]
-    },
-    {
-      "name": "⁠",
-      "cleanName": "⁠",
-      "attendance": 24,
-      "events": [
-        "2/01/25 (viernes)",
-        "9/01/25 (viernes)",
-        "10/01/25 (viernes)",
-        "13/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "8/04/25 (miércoles)",
-        "22/04/25 (miércoles)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "24/06/25 (miércoles)",
-        "2/07/25 (miércoles)",
-        "16/07/25 (viernes)",
-        "22/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠-",
-        "⁠"
+        "⁠Mario",
+        "Mario🔥",
+        "⁠- Mario"
       ]
     },
     {
       "name": "Sebas",
       "cleanName": "Sebas",
-      "attendance": 23,
-      "events": [
-        "3/01/25 (viernes)",
-        "9/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "11/04/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "attendance": 32,
+      "events": [],
       "variations": [
+        "⁠-Sebas(3)",
         "Sebas",
+        "⁠ Sebas",
+        "⁠sebas",
+        "⁠-sebastian",
         "sebastian",
+        "Sebas go🍺",
         "sebas",
+        "⁠-sebas",
+        "⁠sebas go",
         "sebas go"
       ]
     },
     {
       "name": "Vladi",
       "cleanName": "Vladi",
-      "attendance": 23,
-      "events": [
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "29/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "11/04/25 (viernes)",
-        "17/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "9/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "attendance": 30,
+      "events": [],
       "variations": [
+        "⁠-Vladi",
+        "⁠Vladi",
         "Vladi"
+      ]
+    },
+    {
+      "name": "Jheampol",
+      "cleanName": "Jheampol",
+      "attendance": 29,
+      "events": [],
+      "variations": [
+        "jheampol",
+        "⁠-jheampol",
+        "Jheampol",
+        "jheampol (hoy si voy xd)"
       ]
     },
     {
       "name": "Piero",
       "cleanName": "Piero",
-      "attendance": 21,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "9/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "9/04/25 (miércoles)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "8/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "13/06/25 (viernes)",
-        "23/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "attendance": 24,
+      "events": [],
       "variations": [
-        "Piero go"
+        "Piero go",
+        "Piero goes",
+        "⁠- piero go"
       ]
     },
     {
       "name": "Peña",
       "cleanName": "Peña",
-      "attendance": 19,
-      "events": [
-        "29/01/25 (viernes)",
-        "28/02/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "10/04/25 (viernes)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)"
-      ],
+      "attendance": 24,
+      "events": [],
       "variations": [
+        "⁠Peña",
         "Peña",
         "Peña (2)"
       ]
@@ -705,51 +239,43 @@
     {
       "name": "Gerald",
       "cleanName": "Gerald",
-      "attendance": 16,
-      "events": [
-        "29/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "attendance": 18,
+      "events": [],
       "variations": [
         "Gerald",
         "gerald",
+        "gerald.",
         "GERALD"
+      ]
+    },
+    {
+      "name": "Brayan",
+      "cleanName": "Brayan",
+      "attendance": 15,
+      "events": [],
+      "variations": [
+        "Brayan",
+        ". Brayan",
+        "⁠ ⁠⁠- Brayan"
+      ]
+    },
+    {
+      "name": "Joshua",
+      "cleanName": "Joshua",
+      "attendance": 15,
+      "events": [],
+      "variations": [
+        "Joshua",
+        "joshua",
+        "⁠ ⁠⁠- Joshua",
+        "⁠- joshua"
       ]
     },
     {
       "name": "Cone",
       "cleanName": "Cone",
       "attendance": 14,
-      "events": [
-        "7/02/25 (viernes)",
-        "22/05/25 (viernes)",
-        "13/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Cone (5)",
         "Cone",
@@ -760,22 +286,7 @@
       "name": "Leo",
       "cleanName": "Leo",
       "attendance": 14,
-      "events": [
-        "21/03/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "15/05/25 (viernes)",
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "29/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Leo",
         "Leo(5)",
@@ -783,330 +294,186 @@
       ]
     },
     {
-      "name": "Gaspar",
-      "cleanName": "Gaspar",
+      "name": "Trejo",
+      "cleanName": "Trejo",
       "attendance": 13,
-      "events": [
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "16/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "Gaspar"
-      ]
-    },
-    {
-      "name": "Brayan",
-      "cleanName": "Brayan",
-      "attendance": 13,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "23/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "6/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "Brayan"
-      ]
-    },
-    {
-      "name": "Joshua",
-      "cleanName": "Joshua",
-      "attendance": 12,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "2/04/25 (miércoles)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "23/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "6/06/25 (viernes)",
-        "4/07/25 (viernes)"
-      ],
-      "variations": [
-        "Joshua",
-        "joshua"
+        "⁠- Trejo",
+        "Trejo",
+        "⁠Trejo (si es de 3 equipos)"
       ]
     },
     {
       "name": "Hilario",
       "cleanName": "Hilario",
-      "attendance": 11,
-      "events": [
-        "17/01/25 (viernes)",
-        "20/02/25 (viernes)",
-        "27/02/25 (viernes)",
-        "8/04/25 (miércoles)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "24/06/25 (miércoles)",
-        "25/06/25 (miércoles)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "16/07/25 (miércoles)"
-      ],
+      "attendance": 13,
+      "events": [],
       "variations": [
-        "Hilario"
+        "Hilario",
+        "⁠hilario",
+        "⁠Hilario"
       ]
     },
     {
       "name": "Luisr",
       "cleanName": "Luisr",
-      "attendance": 10,
-      "events": [
-        "23/01/25 (viernes)",
-        "28/02/25 (viernes)",
-        "21/03/25 (viernes)",
-        "22/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "16/07/25 (miércoles)"
-      ],
+      "attendance": 13,
+      "events": [],
       "variations": [
-        "LuisR"
+        "LuisR",
+        "⁠LuisR",
+        "⁠LUISR"
       ]
     },
     {
-      "name": "Trejo",
-      "cleanName": "Trejo",
-      "attendance": 10,
-      "events": [
-        "24/01/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "13/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "11/07/25 (viernes)",
-        "15/07/25 (miércoles)",
-        "16/07/25 (miércoles)",
-        "22/07/25 (miércoles)"
-      ],
+      "name": "Ronaldo El Bicho",
+      "cleanName": "Ronaldo El Bicho",
+      "attendance": 12,
+      "events": [],
       "variations": [
-        "Trejo"
+        "⁠Ronaldo el bicho",
+        "⁠- Ronaldo el bicho",
+        "Ronaldo el bicho"
+      ]
+    },
+    {
+      "name": "Jl Tabares",
+      "cleanName": "Jl Tabares",
+      "attendance": 12,
+      "events": [],
+      "variations": [
+        "JL tabares",
+        "Jl Tabares",
+        "⁠Jl Tabares",
+        "⁠-JL Tabares",
+        "Jl tabares"
+      ]
+    },
+    {
+      "name": "Erick Jr",
+      "cleanName": "Erick Jr",
+      "attendance": 10,
+      "events": [],
+      "variations": [
+        "Erick Jr",
+        "⁠Erick Jr",
+        "⁠Erick jr",
+        "Erick jr"
+      ]
+    },
+    {
+      "name": "Max",
+      "cleanName": "Max",
+      "attendance": 10,
+      "events": [],
+      "variations": [
+        "Max",
+        "⁠Max",
+        "max"
       ]
     },
     {
       "name": "Rodri",
       "cleanName": "Rodri",
       "attendance": 9,
-      "events": [
-        "17/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "7/02/25 (viernes)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Rodrigo",
         "rodrigo (6)"
       ]
     },
     {
-      "name": "Jl Tabares",
-      "cleanName": "Jl Tabares",
+      "name": "Anghelo",
+      "cleanName": "Anghelo",
       "attendance": 9,
-      "events": [
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "7/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "18/04/25 (viernes)",
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "JL tabares",
-        "Jl Tabares",
-        "Jl tabares"
-      ]
-    },
-    {
-      "name": "Ronaldo El Bicho",
-      "cleanName": "Ronaldo El Bicho",
-      "attendance": 9,
-      "events": [
-        "16/05/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "30/05/25 (viernes)",
-        "11/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Ronaldo el bicho"
-      ]
-    },
-    {
-      "name": "Bruce Goes",
-      "cleanName": "Bruce Goes",
-      "attendance": 8,
-      "events": [
-        "27/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "5/06/25 (viernes)",
-        "6/06/25 (viernes)"
-      ],
-      "variations": [
-        "Bruce goes"
-      ]
-    },
-    {
-      "name": "Max",
-      "cleanName": "Max",
-      "attendance": 8,
-      "events": [
-        "28/02/25 (viernes)",
-        "21/03/25 (viernes)",
-        "22/05/25 (viernes)",
-        "5/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "22/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Max",
-        "max"
+        "Anghelo",
+        "⁠- Anghelo"
       ]
     },
     {
       "name": "Llerena",
       "cleanName": "Llerena",
-      "attendance": 8,
-      "events": [
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "26/06/25 (viernes)",
-        "1/07/25 (miércoles)"
-      ],
+      "attendance": 9,
+      "events": [],
       "variations": [
-        "Llerena"
+        "Llerena",
+        "llerena  ⁠-"
       ]
     },
     {
       "name": "Frank \uddfb",
       "cleanName": "Frank \uddfb",
-      "attendance": 8,
-      "events": [
-        "1/04/25 (miércoles)",
-        "2/04/25 (miércoles)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)",
-        "22/04/25 (miércoles)",
-        "23/04/25 (miércoles)"
-      ],
+      "attendance": 9,
+      "events": [],
       "variations": [
         "Frank 🇻🇪",
+        "⁠ ⁠⁠-frank 🇻🇪",
         "frank 🇻🇪"
+      ]
+    },
+    {
+      "name": "Tabares",
+      "cleanName": "Tabares",
+      "attendance": 9,
+      "events": [],
+      "variations": [
+        "tabares",
+        ".Tabares",
+        "⁠-tabares"
       ]
     },
     {
       "name": "Jhonatan Cone",
       "cleanName": "Jhonatan Cone",
       "attendance": 8,
-      "events": [
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "13/06/25 (viernes)",
-        "27/06/25 (viernes)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhonatan cone",
         "jhonatan cone"
       ]
     },
     {
-      "name": "Erick Jr",
-      "cleanName": "Erick Jr",
-      "attendance": 7,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "2/07/25 (miércoles)",
-        "16/07/25 (miércoles)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)"
-      ],
+      "name": "José Muñoz",
+      "cleanName": "José Muñoz",
+      "attendance": 8,
+      "events": [],
       "variations": [
-        "Erick Jr",
-        "Erick jr"
+        "⁠José Muñoz",
+        "⁠- José Muñoz",
+        "José Muñoz"
       ]
     },
     {
-      "name": "Anghelo",
-      "cleanName": "Anghelo",
+      "name": "Milo",
+      "cleanName": "Milo",
       "attendance": 7,
-      "events": [
-        "7/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "Anghelo"
+        "⁠ ⁠⁠- Milo",
+        "Milo"
+      ]
+    },
+    {
+      "name": "Joel Bazan",
+      "cleanName": "Joel Bazan",
+      "attendance": 7,
+      "events": [],
+      "variations": [
+        "⁠-joel Bazan",
+        "joel Bazan",
+        "Joel bazan (-4)",
+        ".Joel Bazan",
+        "Joel Bazan"
       ]
     },
     {
       "name": "Backus",
       "cleanName": "Backus",
       "attendance": 7,
-      "events": [
-        "8/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Backus",
         "backus"
@@ -1116,47 +483,28 @@
       "name": "Joshi",
       "cleanName": "Joshi",
       "attendance": 7,
-      "events": [
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "16/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Joshi"
       ]
     },
     {
-      "name": "⁠-terry",
-      "cleanName": "⁠-terry",
+      "name": "Lemos",
+      "cleanName": "Lemos",
       "attendance": 6,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "9/01/25 (viernes)",
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "10/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-Terry"
+        "Lemos",
+        "⁠- Lemos",
+        "⁠Lemos",
+        "Lemos (2)"
       ]
     },
     {
       "name": "Daniel Jara",
       "cleanName": "Daniel Jara",
       "attendance": 6,
-      "events": [
-        "17/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "daniel jara",
         "Daniel jara",
@@ -1164,17 +512,21 @@
       ]
     },
     {
+      "name": "Alvaro",
+      "cleanName": "Alvaro",
+      "attendance": 6,
+      "events": [],
+      "variations": [
+        "Alvaro",
+        "⁠-alvaro",
+        "alvaro"
+      ]
+    },
+    {
       "name": "Joel",
       "cleanName": "Joel",
       "attendance": 6,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Joel",
         "joel",
@@ -1185,240 +537,119 @@
       "name": "Cone Jr",
       "cleanName": "Cone Jr",
       "attendance": 6,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "22/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Cone JR",
         "Cone jr"
       ]
     },
     {
-      "name": "Milo",
-      "cleanName": "Milo",
-      "attendance": 6,
-      "events": [
-        "22/04/25 (miércoles)",
-        "23/04/25 (miércoles)",
-        "15/07/25 (miércoles)",
-        "16/07/25 (miércoles)",
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "Milo"
-      ]
-    },
-    {
       "name": "Triplon",
       "cleanName": "Triplon",
       "attendance": 6,
-      "events": [
-        "15/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "triplon"
-      ]
-    },
-    {
-      "name": "José Muñoz",
-      "cleanName": "José Muñoz",
-      "attendance": 6,
-      "events": [
-        "5/06/25 (viernes)",
-        "16/07/25 (miércoles)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)"
-      ],
-      "variations": [
-        "José Muñoz"
       ]
     },
     {
       "name": "Jhil",
       "cleanName": "Jhil",
       "attendance": 6,
-      "events": [
-        "27/06/25 (viernes)",
-        "9/07/25 (miércoles)",
-        "15/07/25 (miércoles)",
-        "16/07/25 (miércoles)",
-        "23/07/25 (miércoles)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhil"
       ]
     },
     {
-      "name": "⁠-vladi",
-      "cleanName": "⁠-vladi",
+      "name": "Luchito",
+      "cleanName": "Luchito",
       "attendance": 5,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)",
-        "10/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-Vladi"
+        "⁠Luchito go",
+        "Luchito goes",
+        "⁠-luchito go",
+        "luchito go"
       ]
     },
     {
-      "name": "⁠peña",
-      "cleanName": "⁠peña",
+      "name": "Alexis",
+      "cleanName": "Alexis",
       "attendance": 5,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "9/01/25 (viernes)",
-        "10/01/25 (viernes)",
-        "23/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
-        "⁠Peña"
+        ".alexis",
+        "Alexis",
+        "Alexis(5)"
+      ]
+    },
+    {
+      "name": "Novak",
+      "cleanName": "Novak",
+      "attendance": 5,
+      "events": [],
+      "variations": [
+        ". Novak",
+        "Novak (2)"
+      ]
+    },
+    {
+      "name": "Ronaldo El Bicho \uddf9",
+      "cleanName": "Ronaldo El Bicho \uddf9",
+      "attendance": 5,
+      "events": [],
+      "variations": [
+        "⁠- Ronaldo el bicho 🇵🇹",
+        "Ronaldo el bicho 🇵🇹",
+        "⁠-Ronaldo el bicho 🇵🇹"
       ]
     },
     {
       "name": "Saul",
       "cleanName": "Saul",
       "attendance": 5,
-      "events": [
-        "2/04/25 (miércoles)",
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "24/06/25 (miércoles)",
-        "25/06/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Saul"
-      ]
-    },
-    {
-      "name": "Joel Bazan",
-      "cleanName": "Joel Bazan",
-      "attendance": 5,
-      "events": [
-        "11/04/25 (viernes)",
-        "6/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
-      "variations": [
-        "joel Bazan",
-        "Joel bazan (-4)",
-        "Joel Bazan"
-      ]
-    },
-    {
-      "name": "Tabares",
-      "cleanName": "Tabares",
-      "attendance": 5,
-      "events": [
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "25/06/25 (miércoles)",
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)"
-      ],
-      "variations": [
-        "tabares"
       ]
     },
     {
       "name": "Arnold",
       "cleanName": "Arnold",
       "attendance": 5,
-      "events": [
-        "26/06/25 (viernes)",
-        "1/07/25 (miércoles)",
-        "9/07/25 (miércoles)",
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Arnold",
         "Arnold go"
       ]
     },
     {
-      "name": "Lemos",
-      "cleanName": "Lemos",
+      "name": "Moises",
+      "cleanName": "Moises",
       "attendance": 4,
-      "events": [
-        "3/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "20/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "Lemos",
-        "Lemos (2)"
+        "Moises(4)",
+        "⁠-Moises(4)",
+        "⁠Moises(4)"
       ]
     },
     {
       "name": "Roger",
       "cleanName": "Roger",
       "attendance": 4,
-      "events": [
-        "17/01/25 (viernes)",
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "roger",
         "Roger"
       ]
     },
     {
-      "name": "Alvaro",
-      "cleanName": "Alvaro",
-      "attendance": 4,
-      "events": [
-        "17/01/25 (viernes)",
-        "27/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "6/06/25 (viernes)"
-      ],
-      "variations": [
-        "Alvaro",
-        "alvaro"
-      ]
-    },
-    {
-      "name": "Novak",
-      "cleanName": "Novak",
-      "attendance": 4,
-      "events": [
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)",
-        "21/02/25 (viernes)"
-      ],
-      "variations": [
-        "Novak (2)"
-      ]
-    },
-    {
       "name": "Cone Junior",
       "cleanName": "Cone Junior",
       "attendance": 4,
-      "events": [
-        "14/02/25 (viernes)",
-        "28/02/25 (viernes)",
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Cone junior",
         "cone junior (4)",
@@ -1429,12 +660,7 @@
       "name": "Jhon",
       "cleanName": "Jhon",
       "attendance": 4,
-      "events": [
-        "14/02/25 (viernes)",
-        "21/02/25 (viernes)",
-        "28/03/25 (viernes)",
-        "18/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhon",
         "jhon (arquero)",
@@ -1442,58 +668,53 @@
       ]
     },
     {
+      "name": "Temy",
+      "cleanName": "Temy",
+      "attendance": 4,
+      "events": [],
+      "variations": [
+        "temy",
+        "⁠temy",
+        ".temy",
+        "⁠-temy"
+      ]
+    },
+    {
       "name": "Luis R",
       "cleanName": "Luis R",
       "attendance": 4,
-      "events": [
-        "9/04/25 (miércoles)",
-        "10/04/25 (viernes)",
-        "11/04/25 (viernes)",
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Luis R"
       ]
     },
     {
-      "name": "⁠-math",
-      "cleanName": "⁠-math",
+      "name": "Mikhail Bazan",
+      "cleanName": "Mikhail Bazan",
       "attendance": 4,
-      "events": [
-        "10/04/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)",
-        "25/06/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-math",
-        "⁠-Math"
+        "⁠-mikhail Bazan",
+        "mikhail Bazan",
+        "Mikhail Bazan"
       ]
     },
     {
-      "name": "⁠-deiby",
-      "cleanName": "⁠-deiby",
+      "name": "Andres",
+      "cleanName": "Andres",
       "attendance": 4,
-      "events": [
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-Deiby"
+        "Andres(3)",
+        "andres (3)",
+        "⁠- Andres"
       ]
     },
     {
       "name": "Gino Ostos",
       "cleanName": "Gino Ostos",
       "attendance": 4,
-      "events": [
-        "6/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "25/06/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Gino ostos",
         "Gino ostos (4)",
@@ -1504,12 +725,7 @@
       "name": "Edward Bazan",
       "cleanName": "Edward Bazan",
       "attendance": 4,
-      "events": [
-        "6/06/25 (viernes)",
-        "12/06/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "edward Bazan",
         "Edward Bazan(-4)",
@@ -1520,96 +736,66 @@
       "name": "Johan",
       "cleanName": "Johan",
       "attendance": 4,
-      "events": [
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "johan go",
         "Johan"
       ]
     },
     {
+      "name": "Giusseppe",
+      "cleanName": "Giusseppe",
+      "attendance": 4,
+      "events": [],
+      "variations": [
+        "Giusseppe",
+        "⁠Giusseppe( 2 puntos )"
+      ]
+    },
+    {
       "name": "Deni Muñoz",
       "cleanName": "Deni Muñoz",
       "attendance": 4,
-      "events": [
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Deni Muñoz"
       ]
     },
     {
-      "name": "⁠mario",
-      "cleanName": "⁠mario",
-      "attendance": 3,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "23/04/25 (miércoles)"
-      ],
+      "name": "Dailer",
+      "cleanName": "Dailer",
+      "attendance": 4,
+      "events": [],
       "variations": [
-        "⁠Mario🔥",
-        "⁠Mario"
+        "⁠- dailer",
+        "dailer"
       ]
     },
     {
-      "name": "⁠- Deiby",
-      "cleanName": "⁠- Deiby",
+      "name": "Davis",
+      "cleanName": "Davis",
       "attendance": 3,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)",
-        "9/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠- Deiby"
+        "⁠Davis",
+        "Davis"
       ]
     },
     {
-      "name": "⁠-sebas",
-      "cleanName": "⁠-sebas",
+      "name": "Jheyson",
+      "cleanName": "Jheyson",
       "attendance": 3,
-      "events": [
-        "2/01/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-Sebas(3)",
-        "⁠-sebas"
+        "⁠Jheyson",
+        "Jheyson go"
       ]
     },
     {
-      "name": "⁠- Bruce",
-      "cleanName": "⁠- Bruce",
+      "name": "Mori Cr 7",
+      "cleanName": "Mori Cr 7",
       "attendance": 3,
-      "events": [
-        "9/01/25 (viernes)",
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠- Bruce go",
-        "⁠- bruce go",
-        "⁠- bruce go (llego 9:10)"
-      ]
-    },
-    {
-      "name": "Mori Cr -7",
-      "cleanName": "Mori Cr -7",
-      "attendance": 3,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Mori CR -7"
       ]
@@ -1618,11 +804,7 @@
       "name": "Tripa",
       "cleanName": "Tripa",
       "attendance": 3,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Tripa"
       ]
@@ -1631,37 +813,16 @@
       "name": "Oziil Joel",
       "cleanName": "Oziil Joel",
       "attendance": 3,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Oziil Joel"
-      ]
-    },
-    {
-      "name": ".alexis",
-      "cleanName": ".alexis",
-      "attendance": 3,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)"
-      ],
-      "variations": [
-        ".alexis"
       ]
     },
     {
       "name": "Martin",
       "cleanName": "Martin",
       "attendance": 3,
-      "events": [
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Martin"
       ]
@@ -1670,11 +831,7 @@
       "name": "Rodrigo#8#",
       "cleanName": "Rodrigo#8#",
       "attendance": 3,
-      "events": [
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)",
-        "21/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Rodrigo#8#"
       ]
@@ -1683,11 +840,7 @@
       "name": "Elvis",
       "cleanName": "Elvis",
       "attendance": 3,
-      "events": [
-        "28/02/25 (viernes)",
-        "17/04/25 (viernes)",
-        "13/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Elvis (3)",
         "Elvis(llega a las 10)",
@@ -1698,51 +851,26 @@
       "name": "Sandro",
       "cleanName": "Sandro",
       "attendance": 3,
-      "events": [
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "5/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Sandro"
       ]
     },
     {
-      "name": "⁠luisr",
-      "cleanName": "⁠luisr",
+      "name": "Erick H",
+      "cleanName": "Erick H",
       "attendance": 3,
-      "events": [
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "2/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
-        "⁠LuisR",
-        "⁠LUISR"
-      ]
-    },
-    {
-      "name": "⁠mikhail",
-      "cleanName": "⁠mikhail",
-      "attendance": 3,
-      "events": [
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)",
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠mikhail"
+        "⁠ Erick H",
+        "Erick H"
       ]
     },
     {
       "name": "Frank",
       "cleanName": "Frank",
       "attendance": 3,
-      "events": [
-        "14/03/25 (viernes)",
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Frank (chamo)",
         "frank (chamo)"
@@ -1752,11 +880,7 @@
       "name": "Maestroborrachin",
       "cleanName": "Maestroborrachin",
       "attendance": 3,
-      "events": [
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "MaestroBorrachin",
         "MaestroBorrachin(sinchamo)"
@@ -1766,80 +890,16 @@
       "name": "Henry",
       "cleanName": "Henry",
       "attendance": 3,
-      "events": [
-        "9/04/25 (miércoles)",
-        "18/04/25 (viernes)",
-        "25/06/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Henry"
-      ]
-    },
-    {
-      "name": "⁠deiby",
-      "cleanName": "⁠deiby",
-      "attendance": 3,
-      "events": [
-        "10/04/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Deiby"
-      ]
-    },
-    {
-      "name": "Mikhail Bazan",
-      "cleanName": "Mikhail Bazan",
-      "attendance": 3,
-      "events": [
-        "11/04/25 (viernes)",
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)"
-      ],
-      "variations": [
-        "mikhail Bazan",
-        "Mikhail Bazan"
-      ]
-    },
-    {
-      "name": "⁠erick Jr",
-      "cleanName": "⁠erick Jr",
-      "attendance": 3,
-      "events": [
-        "22/04/25 (miércoles)",
-        "23/04/25 (miércoles)",
-        "1/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠Erick Jr",
-        "⁠Erick jr"
-      ]
-    },
-    {
-      "name": "⁠bruce",
-      "cleanName": "⁠bruce",
-      "attendance": 3,
-      "events": [
-        "23/04/25 (miércoles)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
-      "variations": [
-        "⁠bruce go",
-        "⁠Bruce",
-        "⁠Bruce go"
       ]
     },
     {
       "name": "Mikhai",
       "cleanName": "Mikhai",
       "attendance": 3,
-      "events": [
-        "22/05/25 (viernes)",
-        "23/05/25 (viernes)",
-        "26/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "mikhai"
       ]
@@ -1848,11 +908,7 @@
       "name": "Clinton",
       "cleanName": "Clinton",
       "attendance": 3,
-      "events": [
-        "6/06/25 (viernes)",
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Clinton"
       ]
@@ -1861,25 +917,27 @@
       "name": "Lucas",
       "cleanName": "Lucas",
       "attendance": 3,
-      "events": [
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)",
-        "27/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "lucas (3)",
         "Lucas"
       ]
     },
     {
+      "name": "Mr X",
+      "cleanName": "Mr X",
+      "attendance": 3,
+      "events": [],
+      "variations": [
+        "Mr x",
+        "Mr x."
+      ]
+    },
+    {
       "name": "Kike",
       "cleanName": "Kike",
       "attendance": 3,
-      "events": [
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "kike (3)",
         "Kike(2)"
@@ -1889,145 +947,52 @@
       "name": "Jonatan Cone",
       "cleanName": "Jonatan Cone",
       "attendance": 3,
-      "events": [
-        "16/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jonatan cone"
       ]
     },
     {
-      "name": "⁠-mirko Cone",
-      "cleanName": "⁠-mirko Cone",
+      "name": "Mirko Cone",
+      "cleanName": "Mirko Cone",
       "attendance": 3,
-      "events": [
-        "16/07/25 (viernes)",
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠-mirko cone(2)"
       ]
     },
     {
-      "name": "Moises",
-      "cleanName": "Moises",
+      "name": "Pepe",
+      "cleanName": "Pepe",
       "attendance": 2,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)"
-      ],
-      "variations": [
-        "Moises(4)"
-      ]
-    },
-    {
-      "name": "⁠- L Phant",
-      "cleanName": "⁠- L Phant",
-      "attendance": 2,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- l phant"
-      ]
-    },
-    {
-      "name": "⁠pepe",
-      "cleanName": "⁠pepe",
-      "attendance": 2,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠Pepe"
       ]
     },
     {
-      "name": "⁠lucho Peña",
-      "cleanName": "⁠lucho Peña",
+      "name": "Lucho Peña",
+      "cleanName": "Lucho Peña",
       "attendance": 2,
-      "events": [
-        "2/01/25 (viernes)",
-        "3/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠Lucho Peña"
-      ]
-    },
-    {
-      "name": "⁠vladi",
-      "cleanName": "⁠vladi",
-      "attendance": 2,
-      "events": [
-        "9/01/25 (viernes)",
-        "26/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Vladi"
-      ]
-    },
-    {
-      "name": "⁠-alvaro",
-      "cleanName": "⁠-alvaro",
-      "attendance": 2,
-      "events": [
-        "22/01/25 (viernes)",
-        "23/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-alvaro"
       ]
     },
     {
       "name": "Alex Canta",
       "cleanName": "Alex Canta",
       "attendance": 2,
-      "events": [
-        "23/01/25 (viernes)",
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "alex canta"
-      ]
-    },
-    {
-      "name": "⁠-mikhail",
-      "cleanName": "⁠-mikhail",
-      "attendance": 2,
-      "events": [
-        "29/01/25 (viernes)",
-        "19/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-mikhail"
-      ]
-    },
-    {
-      "name": "Alexis",
-      "cleanName": "Alexis",
-      "attendance": 2,
-      "events": [
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)"
-      ],
-      "variations": [
-        "Alexis",
-        "Alexis(5)"
       ]
     },
     {
       "name": "Manuel",
       "cleanName": "Manuel",
       "attendance": 2,
-      "events": [
-        "6/02/25 (viernes)",
-        "7/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "manuel"
       ]
@@ -2036,10 +1001,7 @@
       "name": "Jhoan",
       "cleanName": "Jhoan",
       "attendance": 2,
-      "events": [
-        "12/02/25 (viernes)",
-        "14/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhoan (5)"
       ]
@@ -2048,10 +1010,7 @@
       "name": "José Peña",
       "cleanName": "José Peña",
       "attendance": 2,
-      "events": [
-        "14/02/25 (viernes)",
-        "21/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "José peña"
       ]
@@ -2060,10 +1019,7 @@
       "name": "Kevin",
       "cleanName": "Kevin",
       "attendance": 2,
-      "events": [
-        "14/02/25 (viernes)",
-        "20/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Kevin",
         "Kevin (4)"
@@ -2073,47 +1029,17 @@
       "name": "Renzo",
       "cleanName": "Renzo",
       "attendance": 2,
-      "events": [
-        "21/02/25 (viernes)",
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Renzo (3)",
         "renzo (3)"
       ]
     },
     {
-      "name": "Davis",
-      "cleanName": "Davis",
-      "attendance": 2,
-      "events": [
-        "27/02/25 (viernes)",
-        "15/05/25 (viernes)"
-      ],
-      "variations": [
-        "Davis"
-      ]
-    },
-    {
-      "name": "Piero Goes",
-      "cleanName": "Piero Goes",
-      "attendance": 2,
-      "events": [
-        "27/02/25 (viernes)",
-        "13/03/25 (viernes)"
-      ],
-      "variations": [
-        "Piero goes"
-      ]
-    },
-    {
       "name": "Mikhail A",
       "cleanName": "Mikhail A",
       "attendance": 2,
-      "events": [
-        "27/02/25 (viernes)",
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "mikhail a"
       ]
@@ -2122,9 +1048,7 @@
       "name": "Renato Conta",
       "cleanName": "Renato Conta",
       "attendance": 2,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Renato conta (3)"
       ]
@@ -2133,47 +1057,16 @@
       "name": "George",
       "cleanName": "George",
       "attendance": 2,
-      "events": [
-        "7/03/25 (viernes)",
-        "9/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "George"
-      ]
-    },
-    {
-      "name": "⁠sebas",
-      "cleanName": "⁠sebas",
-      "attendance": 2,
-      "events": [
-        "13/03/25 (viernes)",
-        "2/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠sebas",
-        "⁠sebas go"
-      ]
-    },
-    {
-      "name": "⁠terry",
-      "cleanName": "⁠terry",
-      "attendance": 2,
-      "events": [
-        "13/03/25 (viernes)",
-        "14/03/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Terry"
       ]
     },
     {
       "name": "Temy Sf",
       "cleanName": "Temy Sf",
       "attendance": 2,
-      "events": [
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "temy SF (4)"
       ]
@@ -2182,10 +1075,7 @@
       "name": "Zir Sf",
       "cleanName": "Zir Sf",
       "attendance": 2,
-      "events": [
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "ZIR SF (3)"
       ]
@@ -2194,10 +1084,7 @@
       "name": "Ronaldo",
       "cleanName": "Ronaldo",
       "attendance": 2,
-      "events": [
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "ronaldo (1) (arquero)"
       ]
@@ -2206,10 +1093,7 @@
       "name": "Jhonathan",
       "cleanName": "Jhonathan",
       "attendance": 2,
-      "events": [
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "JHONATHAN (1) (arquero)"
       ]
@@ -2218,10 +1102,7 @@
       "name": "Erick Bull",
       "cleanName": "Erick Bull",
       "attendance": 2,
-      "events": [
-        "20/03/25 (viernes)",
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Erick Bull"
       ]
@@ -2230,106 +1111,34 @@
       "name": "Conde \uddf9\udff4󠁵󠁳󠁴󠁸󠁿\uddfa",
       "cleanName": "Conde \uddf9\udff4󠁵󠁳󠁴󠁸󠁿\uddfa",
       "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Conde 🇹🏴󠁵󠁳󠁴󠁸󠁿🇺"
       ]
     },
     {
-      "name": "Jheyson",
-      "cleanName": "Jheyson",
+      "name": "Frank \udde8\uddf4",
+      "cleanName": "Frank \udde8\uddf4",
       "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
-      "variations": [
-        "Jheyson go"
-      ]
-    },
-    {
-      "name": "⁠- Anghelo",
-      "cleanName": "⁠- Anghelo",
-      "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Anghelo"
-      ]
-    },
-    {
-      "name": "⁠-jheampol",
-      "cleanName": "⁠-jheampol",
-      "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-jheampol"
-      ]
-    },
-    {
-      "name": "⁠- Frank \udde8\uddf4",
-      "cleanName": "⁠- Frank \udde8\uddf4",
-      "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠- frank (chamo) 🇨🇴"
       ]
     },
     {
-      "name": "⁠- Ronaldo El Bicho \uddf9",
-      "cleanName": "⁠- Ronaldo El Bicho \uddf9",
+      "name": "Jhean",
+      "cleanName": "Jhean",
       "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Ronaldo el bicho 🇵🇹"
-      ]
-    },
-    {
-      "name": "⁠-jhean",
-      "cleanName": "⁠-jhean",
-      "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠-jhean"
-      ]
-    },
-    {
-      "name": "⁠- Bruce Chero Del 12",
-      "cleanName": "⁠- Bruce Chero Del 12",
-      "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Bruce chero del 12 🇵🇪"
       ]
     },
     {
       "name": "Jhonatan",
       "cleanName": "Jhonatan",
       "attendance": 2,
-      "events": [
-        "27/03/25 (viernes)",
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhonatan"
       ]
@@ -2338,217 +1147,93 @@
       "name": "Conde \udde8\uddf1",
       "cleanName": "Conde \udde8\uddf1",
       "attendance": 2,
-      "events": [
-        "1/04/25 (miércoles)",
-        "2/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Conde 🇨🇱"
-      ]
-    },
-    {
-      "name": "⁠hilario",
-      "cleanName": "⁠hilario",
-      "attendance": 2,
-      "events": [
-        "2/04/25 (miércoles)",
-        "22/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠hilario",
-        "⁠Hilario"
-      ]
-    },
-    {
-      "name": "Ronaldo El Bicho \uddf9",
-      "cleanName": "Ronaldo El Bicho \uddf9",
-      "attendance": 2,
-      "events": [
-        "2/04/25 (miércoles)",
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "Ronaldo el bicho 🇵🇹"
-      ]
-    },
-    {
-      "name": "⁠bruce Goes",
-      "cleanName": "⁠bruce Goes",
-      "attendance": 2,
-      "events": [
-        "2/04/25 (miércoles)",
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠Bruce goes"
-      ]
-    },
-    {
-      "name": "⁠lucho",
-      "cleanName": "⁠lucho",
-      "attendance": 2,
-      "events": [
-        "2/04/25 (miércoles)",
-        "2/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠Lucho go",
-        "⁠lucho go"
       ]
     },
     {
       "name": "Sebastián",
       "cleanName": "Sebastián",
       "attendance": 2,
-      "events": [
-        "3/04/25 (viernes)",
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Sebastián"
       ]
     },
     {
-      "name": "⁠- Lucho",
-      "cleanName": "⁠- Lucho",
+      "name": "Luis Reynaga",
+      "cleanName": "Luis Reynaga",
       "attendance": 2,
-      "events": [
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠- Lucho go"
+        "⁠ ⁠luis reynaga",
+        "Luis Reynaga"
       ]
     },
     {
-      "name": "⁠-jl Tabares",
-      "cleanName": "⁠-jl Tabares",
+      "name": "Bell",
+      "cleanName": "Bell",
       "attendance": 2,
-      "events": [
-        "3/04/25 (viernes)",
-        "4/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-JL Tabares"
+        "⁠ ⁠⁠bell",
+        "⁠bell"
       ]
     },
     {
       "name": "Sandrito",
       "cleanName": "Sandrito",
       "attendance": 2,
-      "events": [
-        "9/04/25 (miércoles)",
-        "20/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Sandrito",
         "sandrito"
       ]
     },
     {
-      "name": "⁠- Ronaldo El Bicho",
-      "cleanName": "⁠- Ronaldo El Bicho",
+      "name": "Luisreynaga",
+      "cleanName": "Luisreynaga",
       "attendance": 2,
-      "events": [
-        "15/04/25 (miércoles)",
-        "29/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠- Ronaldo el bicho"
+        "⁠-LuisReynaga",
+        "LuisReynaga"
       ]
     },
     {
       "name": "Jhon Kennedy",
       "cleanName": "Jhon Kennedy",
       "attendance": 2,
-      "events": [
-        "15/04/25 (miércoles)",
-        "16/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Jhon Kennedy"
-      ]
-    },
-    {
-      "name": "Bruce Go",
-      "cleanName": "Bruce Go",
-      "attendance": 2,
-      "events": [
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)"
-      ],
-      "variations": [
-        "Bruce go 🍺"
-      ]
-    },
-    {
-      "name": "Mikhail Go",
-      "cleanName": "Mikhail Go",
-      "attendance": 2,
-      "events": [
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)"
-      ],
-      "variations": [
-        "Mikhail go🍺"
-      ]
-    },
-    {
-      "name": "Sebas Go",
-      "cleanName": "Sebas Go",
-      "attendance": 2,
-      "events": [
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)"
-      ],
-      "variations": [
-        "Sebas go🍺"
-      ]
-    },
-    {
-      "name": "Math Go",
-      "cleanName": "Math Go",
-      "attendance": 2,
-      "events": [
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)"
-      ],
-      "variations": [
-        "Math go🍺"
       ]
     },
     {
       "name": "Terryterrordel2",
       "cleanName": "Terryterrordel2",
       "attendance": 2,
-      "events": [
-        "17/04/25 (viernes)",
-        "18/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "TerryTerrordel2"
       ]
     },
     {
-      "name": "⁠max",
-      "cleanName": "⁠max",
+      "name": "Full",
+      "cleanName": "Full",
       "attendance": 2,
-      "events": [
-        "22/04/25 (miércoles)",
-        "2/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
-        "⁠Max"
+        "⁠Full",
+        "Full"
       ]
     },
     {
       "name": "Davis Arquero Xd",
       "cleanName": "Davis Arquero Xd",
       "attendance": 2,
-      "events": [
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Davis (1) arquero xD"
       ]
@@ -2557,10 +1242,7 @@
       "name": "Alan",
       "cleanName": "Alan",
       "attendance": 2,
-      "events": [
-        "8/05/25 (viernes)",
-        "9/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Alan"
       ]
@@ -2569,215 +1251,80 @@
       "name": "Berrospi",
       "cleanName": "Berrospi",
       "attendance": 2,
-      "events": [
-        "16/05/25 (viernes)",
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Berrospi"
       ]
     },
     {
-      "name": "Andres",
-      "cleanName": "Andres",
+      "name": "Chamo",
+      "cleanName": "Chamo",
       "attendance": 2,
-      "events": [
-        "6/06/25 (viernes)",
-        "13/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "Andres(3)",
-        "andres (3)"
+        "chamo",
+        "⁠chamo (después de tiempo )"
       ]
     },
     {
       "name": "Rahut",
       "cleanName": "Rahut",
       "attendance": 2,
-      "events": [
-        "12/06/25 (viernes)",
-        "13/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Rahut"
       ]
     },
     {
-      "name": "Gerald.",
-      "cleanName": "Gerald.",
+      "name": "Jheampool",
+      "cleanName": "Jheampool",
       "attendance": 2,
-      "events": [
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "gerald."
-      ]
-    },
-    {
-      "name": "⁠- Andres",
-      "cleanName": "⁠- Andres",
-      "attendance": 2,
-      "events": [
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Andres"
-      ]
-    },
-    {
-      "name": "⁠- Jheampool",
-      "cleanName": "⁠- Jheampool",
-      "attendance": 2,
-      "events": [
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠- jheampool"
-      ]
-    },
-    {
-      "name": "⁠- Joshua",
-      "cleanName": "⁠- Joshua",
-      "attendance": 2,
-      "events": [
-        "19/06/25 (viernes)",
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- joshua"
       ]
     },
     {
       "name": "Loli",
       "cleanName": "Loli",
       "attendance": 2,
-      "events": [
-        "24/06/25 (miércoles)",
-        "25/06/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Loli"
       ]
     },
     {
-      "name": ".gino",
-      "cleanName": ".gino",
+      "name": "Gino",
+      "cleanName": "Gino",
       "attendance": 2,
-      "events": [
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         ".Gino"
       ]
     },
     {
-      "name": ".tabares",
-      "cleanName": ".tabares",
+      "name": "Sr X",
+      "cleanName": "Sr X",
       "attendance": 2,
-      "events": [
-        "26/06/25 (viernes)",
-        "27/06/25 (viernes)"
-      ],
-      "variations": [
-        ".Tabares"
-      ]
-    },
-    {
-      "name": "Sr X.",
-      "cleanName": "Sr X.",
-      "attendance": 2,
-      "events": [
-        "2/07/25 (viernes)",
-        "3/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Sr x."
-      ]
-    },
-    {
-      "name": "Luchito",
-      "cleanName": "Luchito",
-      "attendance": 2,
-      "events": [
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)"
-      ],
-      "variations": [
-        "luchito go"
-      ]
-    },
-    {
-      "name": "Giusseppe",
-      "cleanName": "Giusseppe",
-      "attendance": 2,
-      "events": [
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)"
-      ],
-      "variations": [
-        "Giusseppe"
-      ]
-    },
-    {
-      "name": "Erick H",
-      "cleanName": "Erick H",
-      "attendance": 2,
-      "events": [
-        "3/07/25 (viernes)",
-        "4/07/25 (viernes)"
-      ],
-      "variations": [
-        "Erick H"
-      ]
-    },
-    {
-      "name": "Mr X.",
-      "cleanName": "Mr X.",
-      "attendance": 2,
-      "events": [
-        "9/07/25 (viernes)",
-        "10/07/25 (viernes)"
-      ],
-      "variations": [
-        "Mr x."
       ]
     },
     {
       "name": "Alcantara",
       "cleanName": "Alcantara",
       "attendance": 2,
-      "events": [
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Alcantara"
-      ]
-    },
-    {
-      "name": "⁠giusseppe",
-      "cleanName": "⁠giusseppe",
-      "attendance": 2,
-      "events": [
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Giusseppe( 2 puntos )"
       ]
     },
     {
       "name": "Tabares Arquero",
       "cleanName": "Tabares Arquero",
       "attendance": 2,
-      "events": [
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Tabares arquero"
       ]
@@ -2786,69 +1333,36 @@
       "name": "Mikarl",
       "cleanName": "Mikarl",
       "attendance": 2,
-      "events": [
-        "10/07/25 (viernes)",
-        "11/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Mikarl"
       ]
     },
     {
-      "name": "⁠trejo",
-      "cleanName": "⁠trejo",
+      "name": "Jp",
+      "cleanName": "Jp",
       "attendance": 2,
-      "events": [
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠Trejo (si es de 3 equipos)"
+        "JP",
+        "⁠JP"
       ]
     },
     {
-      "name": "⁠-tabares",
-      "cleanName": "⁠-tabares",
+      "name": "Juizher El Regreso",
+      "cleanName": "Juizher El Regreso",
       "attendance": 2,
-      "events": [
-        "17/07/25 (viernes)",
-        "18/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
-        "⁠-tabares"
-      ]
-    },
-    {
-      "name": "⁠- Dailer",
-      "cleanName": "⁠- Dailer",
-      "attendance": 2,
-      "events": [
-        "22/07/25 (miércoles)",
-        "23/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠- dailer"
-      ]
-    },
-    {
-      "name": "Dailer",
-      "cleanName": "Dailer",
-      "attendance": 2,
-      "events": [
-        "24/07/25 (viernes)",
-        "25/07/25 (viernes)"
-      ],
-      "variations": [
-        "dailer"
+        "⁠-juizher el regreso (2)",
+        "juizher el regreso (2)"
       ]
     },
     {
       "name": "Alexander",
       "cleanName": "Alexander",
       "attendance": 1,
-      "events": [
-        "2/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Alexander go"
       ]
@@ -2857,86 +1371,34 @@
       "name": "Maik Goo",
       "cleanName": "Maik Goo",
       "attendance": 1,
-      "events": [
-        "2/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Maik goo"
-      ]
-    },
-    {
-      "name": "⁠ronaldo El Bicho",
-      "cleanName": "⁠ronaldo El Bicho",
-      "attendance": 1,
-      "events": [
-        "3/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Ronaldo el bicho"
-      ]
-    },
-    {
-      "name": "⁠davis",
-      "cleanName": "⁠davis",
-      "attendance": 1,
-      "events": [
-        "3/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Davis"
       ]
     },
     {
       "name": "Gian Jara",
       "cleanName": "Gian Jara",
       "attendance": 1,
-      "events": [
-        "3/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Gian Jara"
       ]
     },
     {
-      "name": "⁠martín La Muralla",
-      "cleanName": "⁠martín La Muralla",
+      "name": "Martín La Muralla",
+      "cleanName": "Martín La Muralla",
       "attendance": 1,
-      "events": [
-        "3/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠Martín la muralla"
-      ]
-    },
-    {
-      "name": "⁠luchito",
-      "cleanName": "⁠luchito",
-      "attendance": 1,
-      "events": [
-        "3/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Luchito go"
-      ]
-    },
-    {
-      "name": "⁠jheyson",
-      "cleanName": "⁠jheyson",
-      "attendance": 1,
-      "events": [
-        "3/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Jheyson"
       ]
     },
     {
       "name": "Thomas Goo",
       "cleanName": "Thomas Goo",
       "attendance": 1,
-      "events": [
-        "9/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Thomas goo"
       ]
@@ -2945,97 +1407,25 @@
       "name": "Manuel Gooo",
       "cleanName": "Manuel Gooo",
       "attendance": 1,
-      "events": [
-        "9/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Manuel gooo"
       ]
     },
     {
-      "name": "⁠-moises",
-      "cleanName": "⁠-moises",
+      "name": "Víctor",
+      "cleanName": "Víctor",
       "attendance": 1,
-      "events": [
-        "9/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-Moises(4)"
-      ]
-    },
-    {
-      "name": "⁠- Trejo",
-      "cleanName": "⁠- Trejo",
-      "attendance": 1,
-      "events": [
-        "9/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Trejo"
-      ]
-    },
-    {
-      "name": "⁠- Lemos",
-      "cleanName": "⁠- Lemos",
-      "attendance": 1,
-      "events": [
-        "9/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Lemos"
-      ]
-    },
-    {
-      "name": "⁠moises",
-      "cleanName": "⁠moises",
-      "attendance": 1,
-      "events": [
-        "10/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Moises(4)"
-      ]
-    },
-    {
-      "name": "⁠lemos",
-      "cleanName": "⁠lemos",
-      "attendance": 1,
-      "events": [
-        "10/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Lemos"
-      ]
-    },
-    {
-      "name": "Víctor⁠",
-      "cleanName": "Víctor⁠",
-      "attendance": 1,
-      "events": [
-        "10/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Víctor⁠"
-      ]
-    },
-    {
-      "name": "⁠ Sebas",
-      "cleanName": "⁠ Sebas",
-      "attendance": 1,
-      "events": [
-        "10/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠ Sebas"
       ]
     },
     {
       "name": "Amigo De Jara",
       "cleanName": "Amigo De Jara",
       "attendance": 1,
-      "events": [
-        "17/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Amigo de jara"
       ]
@@ -3044,9 +1434,7 @@
       "name": "Harvyn",
       "cleanName": "Harvyn",
       "attendance": 1,
-      "events": [
-        "17/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "harvyn"
       ]
@@ -3055,20 +1443,16 @@
       "name": "Dealesandro Bazan",
       "cleanName": "Dealesandro Bazan",
       "attendance": 1,
-      "events": [
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "dealesandro Bazan"
       ]
     },
     {
-      "name": "⁠-ing Dancris",
-      "cleanName": "⁠-ing Dancris",
+      "name": "Ing Dancris",
+      "cleanName": "Ing Dancris",
       "attendance": 1,
-      "events": [
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠-ing dancris"
       ]
@@ -3077,9 +1461,7 @@
       "name": "Arnol Namuche",
       "cleanName": "Arnol Namuche",
       "attendance": 1,
-      "events": [
-        "24/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "ARNOL NAMUCHE"
       ]
@@ -3088,53 +1470,25 @@
       "name": "L Phant \udc18",
       "cleanName": "L Phant \udc18",
       "attendance": 1,
-      "events": [
-        "29/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "L Phant 🐘"
-      ]
-    },
-    {
-      "name": "⁠ Alex",
-      "cleanName": "⁠ Alex",
-      "attendance": 1,
-      "events": [
-        "29/01/25 (viernes)"
-      ],
-      "variations": [
-        "⁠ Alex"
       ]
     },
     {
       "name": "Miguel Fiis",
       "cleanName": "Miguel Fiis",
       "attendance": 1,
-      "events": [
-        "29/01/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Miguel FIIS(4)"
-      ]
-    },
-    {
-      "name": ". Novak",
-      "cleanName": ". Novak",
-      "attendance": 1,
-      "events": [
-        "6/02/25 (viernes)"
-      ],
-      "variations": [
-        ". Novak"
       ]
     },
     {
       "name": "Jose Mathias",
       "cleanName": "Jose Mathias",
       "attendance": 1,
-      "events": [
-        "7/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "jose Mathias(2)"
       ]
@@ -3143,20 +1497,16 @@
       "name": "Himmbler",
       "cleanName": "Himmbler",
       "attendance": 1,
-      "events": [
-        "7/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "himmbler (3)"
       ]
     },
     {
-      "name": "Pablo..",
-      "cleanName": "Pablo..",
+      "name": "Pablo",
+      "cleanName": "Pablo",
       "attendance": 1,
-      "events": [
-        "14/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "PABLO.."
       ]
@@ -3165,20 +1515,16 @@
       "name": "Amigo De Jhon",
       "cleanName": "Amigo De Jhon",
       "attendance": 1,
-      "events": [
-        "14/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Amigo de jhon"
       ]
     },
     {
-      "name": "Kevin 11. Sebastian",
-      "cleanName": "Kevin 11. Sebastian",
+      "name": "Kevin 11 Sebastian",
+      "cleanName": "Kevin 11 Sebastian",
       "attendance": 1,
-      "events": [
-        "21/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Kevin (4)11.  Sebastian"
       ]
@@ -3187,9 +1533,7 @@
       "name": "Matias",
       "cleanName": "Matias",
       "attendance": 1,
-      "events": [
-        "21/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Matias"
       ]
@@ -3198,42 +1542,16 @@
       "name": "José Peña 1",
       "cleanName": "José Peña 1",
       "attendance": 1,
-      "events": [
-        "21/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "José peña 1"
-      ]
-    },
-    {
-      "name": "Terrycherodebruce",
-      "cleanName": "Terrycherodebruce",
-      "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
-      "variations": [
-        "TerryCherodeBruce"
-      ]
-    },
-    {
-      "name": "Lucho Goes",
-      "cleanName": "Lucho Goes",
-      "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
-      "variations": [
-        "Lucho goes"
       ]
     },
     {
       "name": "Tabares Jl",
       "cleanName": "Tabares Jl",
       "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Tabares jl"
       ]
@@ -3242,9 +1560,7 @@
       "name": "Angel",
       "cleanName": "Angel",
       "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Angel"
       ]
@@ -3253,9 +1569,7 @@
       "name": "Angelo Conta",
       "cleanName": "Angelo Conta",
       "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Angelo conta (3)"
       ]
@@ -3264,9 +1578,7 @@
       "name": "Edgar Conta",
       "cleanName": "Edgar Conta",
       "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Edgar conta (2)"
       ]
@@ -3275,9 +1587,7 @@
       "name": "Jon",
       "cleanName": "Jon",
       "attendance": 1,
-      "events": [
-        "28/02/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "jon (3)"
       ]
@@ -3286,9 +1596,7 @@
       "name": "Alberto Encarnación",
       "cleanName": "Alberto Encarnación",
       "attendance": 1,
-      "events": [
-        "7/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Alberto Encarnación"
       ]
@@ -3297,86 +1605,43 @@
       "name": "Danilo",
       "cleanName": "Danilo",
       "attendance": 1,
-      "events": [
-        "7/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Danilo"
       ]
     },
     {
-      "name": "⁠-chavez",
-      "cleanName": "⁠-chavez",
+      "name": "Chavez",
+      "cleanName": "Chavez",
       "attendance": 1,
-      "events": [
-        "7/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠-chavez"
       ]
     },
     {
-      "name": "⁠pável",
-      "cleanName": "⁠pável",
+      "name": "Pável",
+      "cleanName": "Pável",
       "attendance": 1,
-      "events": [
-        "13/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠Pável"
       ]
     },
     {
-      "name": "⁠ Erick H",
-      "cleanName": "⁠ Erick H",
+      "name": "11 Luisr",
+      "cleanName": "11 Luisr",
       "attendance": 1,
-      "events": [
-        "14/03/25 (viernes)"
-      ],
-      "variations": [
-        "⁠ Erick H"
-      ]
-    },
-    {
-      "name": "Luchito Goes",
-      "cleanName": "Luchito Goes",
-      "attendance": 1,
-      "events": [
-        "14/03/25 (viernes)"
-      ],
-      "variations": [
-        "Luchito goes"
-      ]
-    },
-    {
-      "name": "11.luisr",
-      "cleanName": "11.luisr",
-      "attendance": 1,
-      "events": [
-        "20/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "11.LuisR"
-      ]
-    },
-    {
-      "name": "Terrycherodel13",
-      "cleanName": "Terrycherodel13",
-      "attendance": 1,
-      "events": [
-        "20/03/25 (viernes)"
-      ],
-      "variations": [
-        "TerryCherodel13"
       ]
     },
     {
       "name": "Joshua \udc4d\udffb",
       "cleanName": "Joshua \udc4d\udffb",
       "attendance": 1,
-      "events": [
-        "21/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Joshua ( lesionado no arquero)👍🏻"
       ]
@@ -3385,9 +1650,7 @@
       "name": "Jhon 2",
       "cleanName": "Jhon 2",
       "attendance": 1,
-      "events": [
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhon 2"
       ]
@@ -3396,317 +1659,88 @@
       "name": "Jhon 3",
       "cleanName": "Jhon 3",
       "attendance": 1,
-      "events": [
-        "28/03/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jhon 3"
       ]
     },
     {
-      "name": "⁠jl Tabares",
-      "cleanName": "⁠jl Tabares",
+      "name": "Joel B \udde7\uddf7",
+      "cleanName": "Joel B \udde7\uddf7",
       "attendance": 1,
-      "events": [
-        "2/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠Jl Tabares"
-      ]
-    },
-    {
-      "name": "⁠-joel B \udde7\uddf7",
-      "cleanName": "⁠-joel B \udde7\uddf7",
-      "attendance": 1,
-      "events": [
-        "2/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "⁠-joel b 🇧🇷"
-      ]
-    },
-    {
-      "name": "Temy",
-      "cleanName": "Temy",
-      "attendance": 1,
-      "events": [
-        "3/04/25 (viernes)"
-      ],
-      "variations": [
-        "temy"
       ]
     },
     {
       "name": "Zir",
       "cleanName": "Zir",
       "attendance": 1,
-      "events": [
-        "3/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Zir"
-      ]
-    },
-    {
-      "name": "⁠- Bruce Goes",
-      "cleanName": "⁠- Bruce Goes",
-      "attendance": 1,
-      "events": [
-        "3/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Bruce goes"
-      ]
-    },
-    {
-      "name": ". Brayan",
-      "cleanName": ". Brayan",
-      "attendance": 1,
-      "events": [
-        "3/04/25 (viernes)"
-      ],
-      "variations": [
-        ". Brayan"
       ]
     },
     {
       "name": "Mariio",
       "cleanName": "Mariio",
       "attendance": 1,
-      "events": [
-        "4/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "mariio"
-      ]
-    },
-    {
-      "name": "⁠- Bruce Chero Del 11",
-      "cleanName": "⁠- Bruce Chero Del 11",
-      "attendance": 1,
-      "events": [
-        "4/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- Bruce chero del 11"
       ]
     },
     {
       "name": "Saúl",
       "cleanName": "Saúl",
       "attendance": 1,
-      "events": [
-        "8/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Saúl"
       ]
     },
     {
-      "name": "⁠ ⁠conde",
-      "cleanName": "⁠ ⁠conde",
+      "name": "L Phnt",
+      "cleanName": "L Phnt",
       "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠Conde"
-      ]
-    },
-    {
-      "name": "⁠ ⁠l Phnt",
-      "cleanName": "⁠ ⁠l Phnt",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "⁠ ⁠L Phnt"
-      ]
-    },
-    {
-      "name": "⁠ ⁠luis Reynaga",
-      "cleanName": "⁠ ⁠luis Reynaga",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠luis reynaga"
       ]
     },
     {
       "name": "Daniel",
       "cleanName": "Daniel",
       "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "daniel"
-      ]
-    },
-    {
-      "name": "⁠ ⁠⁠-frank \uddfb",
-      "cleanName": "⁠ ⁠⁠-frank \uddfb",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠⁠-frank 🇻🇪"
-      ]
-    },
-    {
-      "name": "⁠ ⁠⁠bell",
-      "cleanName": "⁠ ⁠⁠bell",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠⁠bell"
-      ]
-    },
-    {
-      "name": "⁠ ⁠⁠- Brayan",
-      "cleanName": "⁠ ⁠⁠- Brayan",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠⁠- Brayan"
-      ]
-    },
-    {
-      "name": "⁠ ⁠⁠- Joshua",
-      "cleanName": "⁠ ⁠⁠- Joshua",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠⁠- Joshua"
-      ]
-    },
-    {
-      "name": "⁠ ⁠⁠- Milo",
-      "cleanName": "⁠ ⁠⁠- Milo",
-      "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠ ⁠⁠- Milo"
       ]
     },
     {
       "name": "Santillan",
       "cleanName": "Santillan",
       "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Santillan go"
       ]
     },
     {
-      "name": "⁠josé Muñoz",
-      "cleanName": "⁠josé Muñoz",
+      "name": "Frank\uddfb",
+      "cleanName": "Frank\uddfb",
       "attendance": 1,
-      "events": [
-        "9/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠José Muñoz"
-      ]
-    },
-    {
-      "name": "⁠-luisreynaga",
-      "cleanName": "⁠-luisreynaga",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-LuisReynaga"
-      ]
-    },
-    {
-      "name": "⁠-frank\uddfb",
-      "cleanName": "⁠-frank\uddfb",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠-frank🇻🇪"
-      ]
-    },
-    {
-      "name": "⁠-ronaldo El Bicho \uddf9",
-      "cleanName": "⁠-ronaldo El Bicho \uddf9",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-Ronaldo el bicho 🇵🇹"
-      ]
-    },
-    {
-      "name": "⁠- José Muñoz",
-      "cleanName": "⁠- José Muñoz",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- José Muñoz"
-      ]
-    },
-    {
-      "name": "⁠-mikhail Bazan",
-      "cleanName": "⁠-mikhail Bazan",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-mikhail Bazan"
-      ]
-    },
-    {
-      "name": "⁠-joel Bazan",
-      "cleanName": "⁠-joel Bazan",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-joel Bazan"
-      ]
-    },
-    {
-      "name": "⁠-sebastian",
-      "cleanName": "⁠-sebastian",
-      "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-sebastian"
       ]
     },
     {
       "name": "Luis",
       "cleanName": "Luis",
       "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Luis go"
       ]
@@ -3715,75 +1749,34 @@
       "name": "Poma",
       "cleanName": "Poma",
       "attendance": 1,
-      "events": [
-        "10/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Poma"
-      ]
-    },
-    {
-      "name": "Luis Reynaga",
-      "cleanName": "Luis Reynaga",
-      "attendance": 1,
-      "events": [
-        "11/04/25 (viernes)"
-      ],
-      "variations": [
-        "Luis Reynaga"
       ]
     },
     {
       "name": "José Muñoz \udfb0",
       "cleanName": "José Muñoz \udfb0",
       "attendance": 1,
-      "events": [
-        "11/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "José Muñoz 🎰"
       ]
     },
     {
-      "name": "⁠-terryelquedejamisioal",
-      "cleanName": "⁠-terryelquedejamisioal",
+      "name": "Terryelquedejamisioal",
+      "cleanName": "Terryelquedejamisioal",
       "attendance": 1,
-      "events": [
-        "15/04/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "⁠-Terryelquedejamisioal"
       ]
     },
     {
-      "name": "Luisreynaga",
-      "cleanName": "Luisreynaga",
+      "name": "Yoshi",
+      "cleanName": "Yoshi",
       "attendance": 1,
-      "events": [
-        "16/04/25 (miércoles)"
-      ],
-      "variations": [
-        "LuisReynaga"
-      ]
-    },
-    {
-      "name": "Lucho Go",
-      "cleanName": "Lucho Go",
-      "attendance": 1,
-      "events": [
-        "17/04/25 (viernes)"
-      ],
-      "variations": [
-        "Lucho go🍺"
-      ]
-    },
-    {
-      "name": "⁠yoshi",
-      "cleanName": "⁠yoshi",
-      "attendance": 1,
-      "events": [
-        "17/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠yoshi"
       ]
@@ -3792,42 +1785,16 @@
       "name": "Rodrigo Pisao",
       "cleanName": "Rodrigo Pisao",
       "attendance": 1,
-      "events": [
-        "18/04/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Rodrigo pisao"
-      ]
-    },
-    {
-      "name": "⁠bell",
-      "cleanName": "⁠bell",
-      "attendance": 1,
-      "events": [
-        "22/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠bell"
-      ]
-    },
-    {
-      "name": "⁠full",
-      "cleanName": "⁠full",
-      "attendance": 1,
-      "events": [
-        "23/04/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠Full"
       ]
     },
     {
       "name": "Jorge",
       "cleanName": "Jorge",
       "attendance": 1,
-      "events": [
-        "9/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jorge"
       ]
@@ -3836,75 +1803,34 @@
       "name": "Cone Arquero",
       "cleanName": "Cone Arquero",
       "attendance": 1,
-      "events": [
-        "16/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Cone arquero"
-      ]
-    },
-    {
-      "name": "Chamo",
-      "cleanName": "Chamo",
-      "attendance": 1,
-      "events": [
-        "16/05/25 (viernes)"
-      ],
-      "variations": [
-        "chamo"
       ]
     },
     {
       "name": "Come",
       "cleanName": "Come",
       "attendance": 1,
-      "events": [
-        "16/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Come"
       ]
     },
     {
-      "name": "⁠luciano",
-      "cleanName": "⁠luciano",
+      "name": "Luciano",
+      "cleanName": "Luciano",
       "attendance": 1,
-      "events": [
-        "16/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠Luciano"
-      ]
-    },
-    {
-      "name": "Llerena ⁠",
-      "cleanName": "Llerena ⁠",
-      "attendance": 1,
-      "events": [
-        "16/05/25 (viernes)"
-      ],
-      "variations": [
-        "llerena  ⁠-"
-      ]
-    },
-    {
-      "name": "⁠alex",
-      "cleanName": "⁠alex",
-      "attendance": 1,
-      "events": [
-        "16/05/25 (viernes)"
-      ],
-      "variations": [
-        "⁠Alex"
       ]
     },
     {
       "name": "Cone Jhonatan",
       "cleanName": "Cone Jhonatan",
       "attendance": 1,
-      "events": [
-        "22/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Cone jhonatan"
       ]
@@ -3913,9 +1839,7 @@
       "name": "Jack",
       "cleanName": "Jack",
       "attendance": 1,
-      "events": [
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Jack(4)"
       ]
@@ -3924,9 +1848,7 @@
       "name": "Señor K",
       "cleanName": "Señor K",
       "attendance": 1,
-      "events": [
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Señor K"
       ]
@@ -3935,9 +1857,7 @@
       "name": "Fisher La Maravilla",
       "cleanName": "Fisher La Maravilla",
       "attendance": 1,
-      "events": [
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Fisher la maravilla (-2)"
       ]
@@ -3946,9 +1866,7 @@
       "name": "Mael",
       "cleanName": "Mael",
       "attendance": 1,
-      "events": [
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "mael (3)"
       ]
@@ -3957,9 +1875,7 @@
       "name": "Pablo Zelada",
       "cleanName": "Pablo Zelada",
       "attendance": 1,
-      "events": [
-        "23/05/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "pablo Zelada (2)"
       ]
@@ -3968,31 +1884,16 @@
       "name": "Franco",
       "cleanName": "Franco",
       "attendance": 1,
-      "events": [
-        "5/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Franco"
-      ]
-    },
-    {
-      "name": ".alex",
-      "cleanName": ".alex",
-      "attendance": 1,
-      "events": [
-        "5/06/25 (viernes)"
-      ],
-      "variations": [
-        ".Alex"
       ]
     },
     {
       "name": "Imer",
       "cleanName": "Imer",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "imer"
       ]
@@ -4001,9 +1902,7 @@
       "name": "Amigo De Gino",
       "cleanName": "Amigo De Gino",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Amigo de Gino (4)"
       ]
@@ -4012,9 +1911,7 @@
       "name": "Lpanth",
       "cleanName": "Lpanth",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Lpanth"
       ]
@@ -4023,9 +1920,7 @@
       "name": "Negro",
       "cleanName": "Negro",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "negro"
       ]
@@ -4034,9 +1929,7 @@
       "name": "Geral Dominic",
       "cleanName": "Geral Dominic",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "geral Dominic"
       ]
@@ -4045,9 +1938,7 @@
       "name": "Amigo De Gerald Es Cojo Xd",
       "cleanName": "Amigo De Gerald Es Cojo Xd",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "amigo de gerald es cojo xd"
       ]
@@ -4056,9 +1947,7 @@
       "name": "Guni",
       "cleanName": "Guni",
       "attendance": 1,
-      "events": [
-        "6/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "guni"
       ]
@@ -4067,9 +1956,7 @@
       "name": "Rijjark",
       "cleanName": "Rijjark",
       "attendance": 1,
-      "events": [
-        "12/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "rijjark"
       ]
@@ -4078,196 +1965,52 @@
       "name": "Luis Simon",
       "cleanName": "Luis Simon",
       "attendance": 1,
-      "events": [
-        "12/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Luis Simon"
       ]
     },
     {
-      "name": "⁠- Piero",
-      "cleanName": "⁠- Piero",
+      "name": "Michael",
+      "cleanName": "Michael",
       "attendance": 1,
-      "events": [
-        "19/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- piero go"
-      ]
-    },
-    {
-      "name": "⁠-luchito",
-      "cleanName": "⁠-luchito",
-      "attendance": 1,
-      "events": [
-        "19/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-luchito go"
-      ]
-    },
-    {
-      "name": "⁠- Mikhail",
-      "cleanName": "⁠- Mikhail",
-      "attendance": 1,
-      "events": [
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠- mikhail"
-      ]
-    },
-    {
-      "name": "⁠-michael",
-      "cleanName": "⁠-michael",
-      "attendance": 1,
-      "events": [
-        "20/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠-michael"
-      ]
-    },
-    {
-      "name": "⁠temy",
-      "cleanName": "⁠temy",
-      "attendance": 1,
-      "events": [
-        "20/06/25 (viernes)"
-      ],
-      "variations": [
-        "⁠temy"
       ]
     },
     {
       "name": "Hilario Level 2",
       "cleanName": "Hilario Level 2",
       "attendance": 1,
-      "events": [
-        "20/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Hilario level 2"
-      ]
-    },
-    {
-      "name": "⁠-lucho",
-      "cleanName": "⁠-lucho",
-      "attendance": 1,
-      "events": [
-        "25/06/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠-Lucho go"
       ]
     },
     {
       "name": "El Milo Ps",
       "cleanName": "El Milo Ps",
       "attendance": 1,
-      "events": [
-        "25/06/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "El Milo ps"
-      ]
-    },
-    {
-      "name": "Mr X",
-      "cleanName": "Mr X",
-      "attendance": 1,
-      "events": [
-        "26/06/25 (viernes)"
-      ],
-      "variations": [
-        "Mr x"
-      ]
-    },
-    {
-      "name": ".temy",
-      "cleanName": ".temy",
-      "attendance": 1,
-      "events": [
-        "26/06/25 (viernes)"
-      ],
-      "variations": [
-        ".temy"
-      ]
-    },
-    {
-      "name": ".joel Bazan",
-      "cleanName": ".joel Bazan",
-      "attendance": 1,
-      "events": [
-        "26/06/25 (viernes)"
-      ],
-      "variations": [
-        ".Joel Bazan"
       ]
     },
     {
       "name": "Mena",
       "cleanName": "Mena",
       "attendance": 1,
-      "events": [
-        "26/06/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Mena"
-      ]
-    },
-    {
-      "name": "Full",
-      "cleanName": "Full",
-      "attendance": 1,
-      "events": [
-        "2/07/25 (miércoles)"
-      ],
-      "variations": [
-        "Full"
-      ]
-    },
-    {
-      "name": "⁠math",
-      "cleanName": "⁠math",
-      "attendance": 1,
-      "events": [
-        "2/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠math go"
-      ]
-    },
-    {
-      "name": "⁠chamo",
-      "cleanName": "⁠chamo",
-      "attendance": 1,
-      "events": [
-        "2/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠chamo (después de tiempo )"
-      ]
-    },
-    {
-      "name": "⁠-temy",
-      "cleanName": "⁠-temy",
-      "attendance": 1,
-      "events": [
-        "2/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠-temy"
       ]
     },
     {
       "name": "Clever",
       "cleanName": "Clever",
       "attendance": 1,
-      "events": [
-        "9/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Clever"
       ]
@@ -4276,9 +2019,7 @@
       "name": "El Milo",
       "cleanName": "El Milo",
       "attendance": 1,
-      "events": [
-        "9/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "El Milo"
       ]
@@ -4287,108 +2028,43 @@
       "name": "Loloy",
       "cleanName": "Loloy",
       "attendance": 1,
-      "events": [
-        "16/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "Loloy"
-      ]
-    },
-    {
-      "name": "Jp",
-      "cleanName": "Jp",
-      "attendance": 1,
-      "events": [
-        "16/07/25 (miércoles)"
-      ],
-      "variations": [
-        "JP"
       ]
     },
     {
       "name": "Iván Canta",
       "cleanName": "Iván Canta",
       "attendance": 1,
-      "events": [
-        "16/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Iván canta"
       ]
     },
     {
-      "name": "⁠—",
-      "cleanName": "⁠—",
+      "name": "—",
+      "cleanName": "—",
       "attendance": 1,
-      "events": [
-        "16/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "⁠—"
       ]
     },
     {
-      "name": "⁠jp",
-      "cleanName": "⁠jp",
+      "name": "Andy",
+      "cleanName": "Andy",
       "attendance": 1,
-      "events": [
-        "17/07/25 (viernes)"
-      ],
-      "variations": [
-        "⁠JP"
-      ]
-    },
-    {
-      "name": "⁠-juizher El Regreso",
-      "cleanName": "⁠-juizher El Regreso",
-      "attendance": 1,
-      "events": [
-        "17/07/25 (viernes)"
-      ],
-      "variations": [
-        "⁠-juizher el regreso (2)"
-      ]
-    },
-    {
-      "name": "Juizher El Regreso",
-      "cleanName": "Juizher El Regreso",
-      "attendance": 1,
-      "events": [
-        "18/07/25 (viernes)"
-      ],
-      "variations": [
-        "juizher el regreso (2)"
-      ]
-    },
-    {
-      "name": "⁠- Mario",
-      "cleanName": "⁠- Mario",
-      "attendance": 1,
-      "events": [
-        "22/07/25 (miércoles)"
-      ],
-      "variations": [
-        "⁠- Mario"
-      ]
-    },
-    {
-      "name": "⁠andy",
-      "cleanName": "⁠andy",
-      "attendance": 1,
-      "events": [
-        "23/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "⁠Andy"
       ]
     },
     {
-      "name": "⁠josué",
-      "cleanName": "⁠josué",
+      "name": "Josué",
+      "cleanName": "Josué",
       "attendance": 1,
-      "events": [
-        "23/07/25 (miércoles)"
-      ],
+      "events": [],
       "variations": [
         "⁠Josué"
       ]
@@ -4397,9 +2073,7 @@
       "name": "Jhonatham Cone",
       "cleanName": "Jhonatham Cone",
       "attendance": 1,
-      "events": [
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "jhonatham cone"
       ]
@@ -4408,9 +2082,7 @@
       "name": "Mirko",
       "cleanName": "Mirko",
       "attendance": 1,
-      "events": [
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "Mirko(2)"
       ]
@@ -4419,9 +2091,7 @@
       "name": "El Delincuente",
       "cleanName": "El Delincuente",
       "attendance": 1,
-      "events": [
-        "25/07/25 (viernes)"
-      ],
+      "events": [],
       "variations": [
         "El delincuente"
       ]
